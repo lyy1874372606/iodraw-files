@@ -133,7 +133,8 @@
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0;rounded=0;" parent="1" source="0qw4hvIUzOlSYP-U8inQ-13" target="0qw4hvIUzOlSYP-U8inQ-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="288" y="809" />
+              <mxPoint x="495" y="825" />
+              <mxPoint x="283" y="819" />
               <mxPoint x="282" y="873" />
             </Array>
           </mxGeometry>
