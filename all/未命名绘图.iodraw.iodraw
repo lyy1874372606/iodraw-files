@@ -22,9 +22,6 @@
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-7" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="201" y="898" width="1163" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="0qw4hvIUzOlSYP-U8inQ-8" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="638" y="304" width="300" height="403" as="geometry" />
-        </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-9" value="获取水质数据&#xa;(6断面日尺度 CWQI，2021-2025)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="701" y="329" width="193" height="84" as="geometry" />
         </mxCell>
@@ -343,9 +340,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0qw4hvIUzOlSYP-U8inQ-76" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="0qw4hvIUzOlSYP-U8inQ-8" target="0qw4hvIUzOlSYP-U8inQ-12">
+        <mxCell id="0qw4hvIUzOlSYP-U8inQ-76" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" target="0qw4hvIUzOlSYP-U8inQ-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="938" y="510.9435483870968" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-77" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="0qw4hvIUzOlSYP-U8inQ-6" target="0qw4hvIUzOlSYP-U8inQ-24">
@@ -362,9 +360,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0qw4hvIUzOlSYP-U8inQ-80" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="748" y="426" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
