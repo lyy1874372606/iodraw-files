@@ -25,13 +25,13 @@
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-9" value="获取水质数据&#xa;(6断面日尺度 CWQI，2021-2025)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="701" y="329" width="193" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="0qw4hvIUzOlSYP-U8inQ-10" value="数据预处理&#xa;(标准化 + 滑动窗口构造&#xa;window=96, label=48, pred=3)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0qw4hvIUzOlSYP-U8inQ-10" value="数据预处理&#xa;(标准化 + 滑动窗口构造&#xa;window=96, label=48, pred=3)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="673" y="463" width="229" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="0qw4hvIUzOlSYP-U8inQ-11" value="日尺度时间序列&#xa;[B, T, 1]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0qw4hvIUzOlSYP-U8inQ-11" value="日尺度时间序列&#xa;[B, T, 1]" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="702" y="615" width="172" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="0qw4hvIUzOlSYP-U8inQ-12" value="获取数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0qw4hvIUzOlSYP-U8inQ-12" value="获取数据" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="973" y="490" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-13" value="VMD分解&#xa;(K=8)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
