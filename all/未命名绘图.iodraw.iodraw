@@ -31,9 +31,6 @@
         <mxCell id="wxv5i_JOPXgM-xHExwkQ-10" value="数据预处理&#xa;(标准化 + 滑动窗口构造&#xa;window=96, label=48, pred=3)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="654" y="202" width="229" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="wxv5i_JOPXgM-xHExwkQ-11" value="日尺度时间序列&#xa;[B, T, 1]" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="683" y="354" width="172" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="wxv5i_JOPXgM-xHExwkQ-12" value="获取数据" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="478" y="229" width="126" height="49" as="geometry" />
         </mxCell>
@@ -123,11 +120,6 @@
             <Array as="points">
               <mxPoint x="769" y="166" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wxv5i_JOPXgM-xHExwkQ-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="wxv5i_JOPXgM-xHExwkQ-10" target="wxv5i_JOPXgM-xHExwkQ-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wxv5i_JOPXgM-xHExwkQ-42" value="获取数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="wxv5i_JOPXgM-xHExwkQ-9" target="wxv5i_JOPXgM-xHExwkQ-12" edge="1">
@@ -346,11 +338,6 @@
             <Array as="points">
               <mxPoint x="782" y="2326" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wxv5i_JOPXgM-xHExwkQ-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=-0.01;rounded=0;" parent="1" source="wxv5i_JOPXgM-xHExwkQ-11" target="wxv5i_JOPXgM-xHExwkQ-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wxv5i_JOPXgM-xHExwkQ-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="wxv5i_JOPXgM-xHExwkQ-14" target="wxv5i_JOPXgM-xHExwkQ-24" edge="1">
