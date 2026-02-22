@@ -217,6 +217,9 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-92" value="效果评价" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1115" y="1308" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-93" value="&lt;h1&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 30px;&quot;&gt;获取数据&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="370" width="140" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
