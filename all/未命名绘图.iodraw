@@ -94,8 +94,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jQu34QfNZX69bqj7fgg8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.349;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jQu34QfNZX69bqj7fgg8-6" target="jQu34QfNZX69bqj7fgg8-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jQu34QfNZX69bqj7fgg8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jQu34QfNZX69bqj7fgg8-6" target="jQu34QfNZX69bqj7fgg8-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450.00275862068975" y="538.9172413793102" as="sourcePoint" />
+            <mxPoint x="456.3789999999999" y="110.00099999999989" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
