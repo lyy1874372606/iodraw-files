@@ -170,7 +170,7 @@
         <mxCell id="th_m48rzTfyoSlj6HmnU-66" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b46504;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fad7ac;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
           <mxGeometry x="40" y="50" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="th_m48rzTfyoSlj6HmnU-68" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;自注意力蒸馏&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#10739e;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#b1ddf0;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
+        <mxCell id="th_m48rzTfyoSlj6HmnU-68" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;自注意力蒸馏&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#10739e;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#B1DDF0;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
           <mxGeometry x="20" y="90" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-69" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;多头概率稀疏自注意力机制&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b46504;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fad7ac;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
