@@ -133,7 +133,7 @@
         <mxCell id="a5Ba5QvrXNB7DOZfkwk2-1" value="数据集划分" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="249.25" y="230" width="150.5" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="a5Ba5QvrXNB7DOZfkwk2-3" value="u2-u4中频" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="a5Ba5QvrXNB7DOZfkwk2-3" value="u2-u4" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="299.62" y="469.5" width="49.75" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="a5Ba5QvrXNB7DOZfkwk2-4" value="u1高频" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
