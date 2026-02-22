@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-22" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="210" width="229" height="484" as="geometry" />
+          <mxGeometry x="150" y="220" width="229" height="484" as="geometry" />
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-3" value="构造上下包络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="jQu34QfNZX69bqj7fgg8-22">
           <mxGeometry x="16" y="25" width="158" height="49" as="geometry" />
