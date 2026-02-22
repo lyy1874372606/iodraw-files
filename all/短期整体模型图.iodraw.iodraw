@@ -14,16 +14,16 @@
           <mxGeometry x="805" y="500" width="191" height="52" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-11" value="月度时间序列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="807" y="608" width="192" height="51" as="geometry" />
+          <mxGeometry x="807" y="600" width="192" height="51" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-12" value="获取数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1238" y="510" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-13" value="构造外生变量&#xa;rain / lag1 / lag2&#xa;month_sin / month_cos" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="791" y="730" width="233" height="62" as="geometry" />
+          <mxGeometry x="791" y="700" width="233" height="62" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-14" value="外生变量矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="791" y="836" width="237" height="62" as="geometry" />
+          <mxGeometry x="791" y="810" width="237" height="62" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-15" value="外生变量构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1319" y="797" width="158" height="49" as="geometry" />
@@ -144,15 +144,17 @@
             <mxPoint x="1054.5" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-23">
+        <mxCell id="gEktWJj9ow306holStKL-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1175" y="1111.5" as="sourcePoint" />
             <mxPoint x="1181.5" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-24">
+        <mxCell id="gEktWJj9ow306holStKL-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1293" y="1111.5" as="sourcePoint" />
             <mxPoint x="1308.5" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -163,7 +165,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-16" value="ARIMA" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="950" width="106" height="49" as="geometry" />
+          <mxGeometry x="746" y="910" width="106" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-17" value="SARIMAX&#xa;(带外生变量)" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="712" y="1053" width="152" height="67" as="geometry" />
@@ -193,16 +195,10 @@
           <mxGeometry x="900" y="1061.5" width="60" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-22" value="u2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="993" y="1061.5" width="65" height="38.5" as="geometry" />
-        </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-23" value="u3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="1061.5" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-24" value="u4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1253" y="1061.5" width="80" height="50" as="geometry" />
+          <mxGeometry x="993" y="1061.5" width="57" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-25" value="u5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1375" y="1061.5" width="80" height="50" as="geometry" />
+          <mxGeometry x="1084" y="1061.5" width="56" height="38.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
