@@ -152,10 +152,10 @@
           <mxGeometry x="735" y="1020" width="138" height="57" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-18" value="ETS模型" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="746" y="1130" width="118" height="49" as="geometry" />
+          <mxGeometry x="727" y="1130" width="153" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-19" value="单步预测输出" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="714" y="1347" width="156" height="49" as="geometry" />
+          <mxGeometry x="727" y="1220" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-21" value="u1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="900" y="1061.5" width="60" height="38.5" as="geometry" />
