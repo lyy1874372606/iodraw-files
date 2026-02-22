@@ -208,7 +208,7 @@
           <mxGeometry x="660" y="320" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-53" value="输出预测" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="700" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
