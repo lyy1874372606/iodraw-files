@@ -25,7 +25,7 @@
         <mxCell id="gdbvxgitAdAcSk3XHLnh-10" value="h&lt;sub&gt;t&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="100" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdbvxgitAdAcSk3XHLnh-12" value="&lt;span style=&quot;display: inline;&quot; data-processed=&quot;true&quot; class=&quot;mTEjhd&quot;&gt;&lt;span style=&quot;font-size: 1.15em;&quot; data-processed=&quot;true&quot; class=&quot;dteT0b&quot;&gt;&lt;div style=&quot;position: relative; direction: ltr; display: inline-block;&quot; data-processed=&quot;true&quot; data-xpm-copy-root=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(32, 33, 34); font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;σ&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="gdbvxgitAdAcSk3XHLnh-12" value="&lt;span class=&quot;mTEjhd&quot; data-processed=&quot;true&quot; style=&quot;display: inline;&quot;&gt;&lt;span class=&quot;dteT0b&quot; data-processed=&quot;true&quot; style=&quot;font-size: 1.15em;&quot;&gt;&lt;div data-xpm-copy-root=&quot;&quot; data-processed=&quot;true&quot; style=&quot;position: relative; direction: ltr; display: inline-block;&quot;&gt;&lt;span style=&quot;color: rgb(32, 33, 34); font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;σ&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="260" y="420" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
