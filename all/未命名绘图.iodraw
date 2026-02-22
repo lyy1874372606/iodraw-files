@@ -193,9 +193,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="th_m48rzTfyoSlj6HmnU-50" value="特征链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#314354;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;fillColor=#4D4D4D;gradientColor=none;" vertex="1" connectable="0" parent="th_m48rzTfyoSlj6HmnU-49">
+        <mxCell id="th_m48rzTfyoSlj6HmnU-50" value="&lt;font color=&quot;#000000&quot;&gt;特征连接&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#314354;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;fillColor=#4D4D4D;gradientColor=none;" vertex="1" connectable="0" parent="th_m48rzTfyoSlj6HmnU-49">
           <mxGeometry x="-0.6892" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="th_m48rzTfyoSlj6HmnU-51" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="510" as="sourcePoint" />
+            <mxPoint x="660" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
