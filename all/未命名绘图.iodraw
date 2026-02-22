@@ -11,7 +11,7 @@
           <mxGeometry x="175" y="119" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-7" value="提取一个IMF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="171" y="690" width="150" height="49" as="geometry" />
+          <mxGeometry x="170" y="630" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jQu34QfNZX69bqj7fgg8-8" target="jQu34QfNZX69bqj7fgg8-9">
           <mxGeometry relative="1" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry x="150.5" y="400" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-6" value="满足IMF条件" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="177" y="500" width="143" height="80" as="geometry" />
+          <mxGeometry x="174" y="505" width="143" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="jQu34QfNZX69bqj7fgg8-2" target="jQu34QfNZX69bqj7fgg8-3">
           <mxGeometry relative="1" as="geometry">
@@ -97,9 +97,8 @@
             <mxPoint x="314.5" y="606.02" as="sourcePoint" />
             <mxPoint x="316" y="130.02" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="570" />
-              <mxPoint x="430" y="144" />
-              <mxPoint x="330" y="144" />
+              <mxPoint x="430" y="545" />
+              <mxPoint x="430" y="143" />
             </Array>
           </mxGeometry>
         </mxCell>
