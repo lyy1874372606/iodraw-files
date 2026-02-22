@@ -14,10 +14,10 @@
           <mxGeometry x="170.5" y="710" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-8" value="更新残差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="117" y="849" width="126" height="49" as="geometry" />
+          <mxGeometry x="183" y="800" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-9" value="残差可继续分解" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="153" y="948" width="163" height="163" as="geometry" />
+          <mxGeometry x="157.5" y="900" width="163" height="163" as="geometry" />
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-10" value="输出IMF集合与残差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="136" y="1184" width="197" height="49" as="geometry" />
@@ -37,9 +37,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jQu34QfNZX69bqj7fgg8-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.24;entryY=0;rounded=0;" edge="1" parent="1" source="jQu34QfNZX69bqj7fgg8-8" target="jQu34QfNZX69bqj7fgg8-9">
+        <mxCell id="jQu34QfNZX69bqj7fgg8-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jQu34QfNZX69bqj7fgg8-8" target="jQu34QfNZX69bqj7fgg8-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="250" y="870" />
               <mxPoint x="180" y="923" />
             </Array>
           </mxGeometry>
