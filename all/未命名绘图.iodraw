@@ -16,13 +16,13 @@
         <mxCell id="NBAdNR45K9DQTAvm9djl-3" value="初始化模态 u1..uK 与中心频率 w1..wK" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
           <mxGeometry x="29" y="216" width="199" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="NBAdNR45K9DQTAvm9djl-4" value="迭代更新&#xa;更新 u_k 与 w_k" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
+        <mxCell id="NBAdNR45K9DQTAvm9djl-4" value="迭代更新&#xa;更新 u_k 与 w_k" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
           <mxGeometry y="332" width="256" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NBAdNR45K9DQTAvm9djl-5" value="是否收敛" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
+        <mxCell id="NBAdNR45K9DQTAvm9djl-5" value="是否收敛" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
           <mxGeometry x="71" y="454" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="NBAdNR45K9DQTAvm9djl-6" value="输出分量&#xa;u1..uK + residual" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
+        <mxCell id="NBAdNR45K9DQTAvm9djl-6" value="输出分量&#xa;u1..uK + residual" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
           <mxGeometry x="29" y="642" width="198" height="67" as="geometry" />
         </mxCell>
         <mxCell id="NBAdNR45K9DQTAvm9djl-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="NBAdNR45K9DQTAvm9djl-13" source="NBAdNR45K9DQTAvm9djl-1" target="NBAdNR45K9DQTAvm9djl-2">
