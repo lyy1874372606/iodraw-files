@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="e54F1CEKFKMmflqJhWVb">
-    <mxGraphModel dx="235" dy="137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="844" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,6 +169,11 @@
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-22" value="提取最后 pred_len=3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-77">
           <mxGeometry y="99" width="210" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tIL0x2nf-udAQ6Uirgnj-77" source="tIL0x2nf-udAQ6Uirgnj-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="69.99999999999977" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-23" value="特征输出B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-77">
           <mxGeometry x="38" y="198" width="134" height="49" as="geometry" />
