@@ -179,7 +179,7 @@
           <mxGeometry y="130" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-85" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#314354;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;fillColor=#4D4D4D;gradientColor=none;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
-          <mxGeometry x="60" y="-10" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="20" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
