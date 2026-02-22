@@ -235,7 +235,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-23" value="特征输出B" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-23" value="特征输出B" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="758" y="1270" width="134" height="49" as="geometry" />
         </mxCell>
       </root>
