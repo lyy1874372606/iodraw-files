@@ -46,9 +46,6 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-14" value="划分数据集&#xa;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;spacingBottom=-13;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="571.5" y="680" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-29" value="获取数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="260" width="126" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-30" value="数据预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1170" y="600" width="142" height="49" as="geometry" />
         </mxCell>
@@ -78,9 +75,10 @@
             <mxPoint x="680" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-56" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-29">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-56" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1140" y="270.7282559798465" as="sourcePoint" />
             <mxPoint x="840" y="205.14852255054439" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -238,8 +236,8 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-23" value="特征输出B" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="758" y="1270" width="134" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-88" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="118" width="50" height="30" as="geometry" />
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-88" value="获取数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="263" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
