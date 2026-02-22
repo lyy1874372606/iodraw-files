@@ -222,7 +222,7 @@
           </mxCell>
         </object>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-21" value="BiLSTM 序列建模" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="735" y="1200" width="180" height="49" as="geometry" />
+          <mxGeometry x="736" y="1140" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-23">
           <mxGeometry relative="1" as="geometry">
@@ -234,6 +234,12 @@
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-23" value="特征输出B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="758" y="1338" width="134" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="825" y="1239" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
