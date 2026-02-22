@@ -200,7 +200,13 @@
           <mxGeometry x="600" y="850" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-100" value="&lt;font color=&quot;#000000&quot;&gt;解码器&lt;/font&gt;qi&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="790" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="630" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="th_m48rzTfyoSlj6HmnU-101" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="580" as="sourcePoint" />
+            <mxPoint x="840" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
