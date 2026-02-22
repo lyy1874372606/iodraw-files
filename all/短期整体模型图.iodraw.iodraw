@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1334" width="703" height="471" as="geometry" />
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-4" value="分支B：BiLSTM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="892" y="1359" width="302" height="297" as="geometry" />
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-5" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1359" width="307" height="421" as="geometry" />
-        </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-9" value="获取数据&#xa;日尺度CWQI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="554" y="209" width="251" height="84" as="geometry" />
         </mxCell>
@@ -55,27 +46,6 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-14" value="划分数据集&#xa;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;spacingBottom=-13;" vertex="1" parent="1">
           <mxGeometry x="571.5" y="680" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-17" value="分量注意力融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="565" y="1384" width="237" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-18" value="输入投影" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="621" y="1483" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-19" value="Informer 编码-解码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="585" y="1582" width="197" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-20" value="特征输出A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="616" y="1706" width="135" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-21" value="BiLSTM 序列建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="964" y="1384" width="180" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-22" value="提取最后 pred_len=3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="948" y="1483" width="210" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-23" value="特征输出B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="986" y="1582" width="134" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-24" value="特征融合&#xa;Concat" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="799" y="1855" width="126" height="67" as="geometry" />
         </mxCell>
@@ -110,31 +80,6 @@
             <Array as="points" />
             <mxPoint x="679.2" y="477" as="sourcePoint" />
             <mxPoint x="679" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-17" target="tIL0x2nf-udAQ6Uirgnj-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-18" target="tIL0x2nf-udAQ6Uirgnj-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-19" target="tIL0x2nf-udAQ6Uirgnj-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-21" target="tIL0x2nf-udAQ6Uirgnj-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-22" target="tIL0x2nf-udAQ6Uirgnj-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.2;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-20" target="tIL0x2nf-udAQ6Uirgnj-24">
@@ -239,6 +184,64 @@
           <mxGeometry y="116" width="176" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="tIL0x2nf-udAQ6Uirgnj-72" source="tIL0x2nf-udAQ6Uirgnj-15" target="tIL0x2nf-udAQ6Uirgnj-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-74" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="1334" width="703" height="471" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-74">
+          <mxGeometry width="703" height="471" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-4" value="分支B：BiLSTM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-74">
+          <mxGeometry x="382" y="25" width="302" height="297" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-5" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-74">
+          <mxGeometry x="20" y="25" width="307" height="421" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-17" value="分量注意力融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-74">
+          <mxGeometry x="55" y="50" width="237" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-18" value="输入投影" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-74">
+          <mxGeometry x="111" y="149" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-19" value="Informer 编码-解码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-74">
+          <mxGeometry x="75" y="248" width="197" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-20" value="特征输出A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-74">
+          <mxGeometry x="106" y="372" width="135" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-21" value="BiLSTM 序列建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-74">
+          <mxGeometry x="454" y="50" width="180" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-22" value="提取最后 pred_len=3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-74">
+          <mxGeometry x="438" y="149" width="210" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-23" value="特征输出B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-74">
+          <mxGeometry x="476" y="248" width="134" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="tIL0x2nf-udAQ6Uirgnj-74" source="tIL0x2nf-udAQ6Uirgnj-17" target="tIL0x2nf-udAQ6Uirgnj-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="tIL0x2nf-udAQ6Uirgnj-74" source="tIL0x2nf-udAQ6Uirgnj-18" target="tIL0x2nf-udAQ6Uirgnj-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="tIL0x2nf-udAQ6Uirgnj-74" source="tIL0x2nf-udAQ6Uirgnj-19" target="tIL0x2nf-udAQ6Uirgnj-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="tIL0x2nf-udAQ6Uirgnj-74" source="tIL0x2nf-udAQ6Uirgnj-21" target="tIL0x2nf-udAQ6Uirgnj-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="tIL0x2nf-udAQ6Uirgnj-74" source="tIL0x2nf-udAQ6Uirgnj-22" target="tIL0x2nf-udAQ6Uirgnj-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
