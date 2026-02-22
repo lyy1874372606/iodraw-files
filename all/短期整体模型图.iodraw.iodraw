@@ -20,10 +20,10 @@
           <mxGeometry x="1238" y="510" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-13" value="构造外生变量&#xa;rain / lag1 / lag2&#xa;month_sin / month_cos" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="791" y="700" width="233" height="62" as="geometry" />
+          <mxGeometry x="791" y="700" width="229" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-14" value="外生变量矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="791" y="810" width="237" height="62" as="geometry" />
+          <mxGeometry x="791" y="810" width="209" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-15" value="外生变量构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1319" y="797" width="158" height="49" as="geometry" />
@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-20" value="VMD分解&#xa;(K=5)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="930" y="950" width="116" height="53" as="geometry" />
+          <mxGeometry x="921" y="910" width="116" height="53" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.48;entryY=0.01;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-22">
           <mxGeometry relative="1" as="geometry">
