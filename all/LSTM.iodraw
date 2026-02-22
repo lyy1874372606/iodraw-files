@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lbz4l819wb7b4t988nfn">
-    <mxGraphModel dx="92" dy="54" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="191" dy="111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,16 +12,6 @@
         </mxCell>
         <mxCell id="gdbvxgitAdAcSk3XHLnh-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;t-1&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="260" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gdbvxgitAdAcSk3XHLnh-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.885;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="144.812" y="439.48" as="targetPoint" />
-            <mxPoint x="100" y="440.53" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="140" y="441" />
-              <mxPoint x="140" y="440" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="gdbvxgitAdAcSk3XHLnh-6" value="&lt;sub&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;h&lt;/span&gt;t-1&lt;/font&gt;&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="60" y="420" width="50" height="40" as="geometry" />
@@ -96,6 +86,9 @@
               <mxPoint x="450" y="443" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gdbvxgitAdAcSk3XHLnh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.891;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gdbvxgitAdAcSk3XHLnh-6" target="gdbvxgitAdAcSk3XHLnh-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
