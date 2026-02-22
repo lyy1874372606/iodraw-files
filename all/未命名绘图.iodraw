@@ -57,7 +57,8 @@
         <mxCell id="53AVRFLM_znfAYnoeNg--13" value="否" style="startArrow=none;endArrow=block;exitX=0.86;exitY=0;entryX=0.69;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="53AVRFLM_znfAYnoeNg--6" target="53AVRFLM_znfAYnoeNg--3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="459" y="640" />
+              <mxPoint x="610" y="782" />
+              <mxPoint x="610" y="640" />
               <mxPoint x="464" y="640" />
             </Array>
           </mxGeometry>
