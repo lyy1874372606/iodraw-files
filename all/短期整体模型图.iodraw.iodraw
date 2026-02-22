@@ -26,7 +26,7 @@
           <mxGeometry x="1238" y="510" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-13" value="构造外生变量&#xa;rain / lag1 / lag2&#xa;month_sin / month_cos" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="793" y="736" width="233" height="62" as="geometry" />
+          <mxGeometry x="791" y="730" width="233" height="62" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-14" value="外生变量矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="798" y="852" width="245" height="47" as="geometry" />
