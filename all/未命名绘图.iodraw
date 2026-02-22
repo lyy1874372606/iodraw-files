@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-9" value="残差可继续分解" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="164.5" y="850" width="163" height="163" as="geometry" />
+          <mxGeometry x="167.25" y="850" width="155.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-10" value="输出IMF集合与残差" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="1060" width="197" height="49" as="geometry" />
