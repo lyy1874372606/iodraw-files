@@ -179,7 +179,7 @@
         <mxCell id="th_m48rzTfyoSlj6HmnU-54" value="&lt;font color=&quot;#000000&quot;&gt;编码器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
           <mxGeometry x="100" y="-10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="th_m48rzTfyoSlj6HmnU-106" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.18828451882845187;arcSize=10;flipV=1;labelPosition=center;align=center;strokeColor=#314354;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;fillColor=#4D4D4D;gradientColor=none;direction=west;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
+        <mxCell id="th_m48rzTfyoSlj6HmnU-106" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.18828451882845187;arcSize=10;flipV=1;labelPosition=center;align=center;strokeColor=#6c8ebf;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#dae8fc;gradientColor=#7ea6e0;direction=west;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
           <mxGeometry x="60.25" y="30" width="59.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-90" value="" style="group" vertex="1" connectable="0" parent="1">
