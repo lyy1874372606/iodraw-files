@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gEktWJj9ow306holStKL-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="772" y="2769" width="300" height="152" as="geometry" />
-        </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-9" value="获取月尺度数据&#xa;(CWQI 2021-2025)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="805" y="411" width="188" height="47" as="geometry" />
         </mxCell>
@@ -43,20 +40,8 @@
         <mxCell id="gEktWJj9ow306holStKL-42" value="组合模型构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="399" y="1597" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-43" value="单步滚动预测&#xa;(Walk-Forward)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="847" y="2458" width="170" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-44" value="预测序列输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="844" y="2574" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-45" value="预测策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1279" y="2574" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-46" value="模型评价&#xa;(RMSE / MAE / R² / NSE&#xa;Pearson_r / MaxAE / P95AE)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="807" y="2794" width="230" height="102" as="geometry" />
-        </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-47" value="预测和评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="851" y="2971" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-49" value="·" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="354" y="1767" width="21" height="21" as="geometry" />
@@ -66,9 +51,6 @@
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-52" value="·" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1164" y="2362" width="21" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-53" value="·" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="912" y="2698" width="21" height="21" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-54" value="" style="startArrow=none;endArrow=block;exitX=0.47;exitY=0.99;entryX=0.463;entryY=0.016;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-9" target="gEktWJj9ow306holStKL-10">
           <mxGeometry relative="1" as="geometry" />
@@ -86,13 +68,6 @@
         <mxCell id="gEktWJj9ow306holStKL-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-28" target="gEktWJj9ow306holStKL-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-43" target="gEktWJj9ow306holStKL-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="922" y="2549" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-93" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0;entryY=0.13;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-51" target="gEktWJj9ow306holStKL-43">
@@ -114,29 +89,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.48;entryY=0.01;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-44" target="gEktWJj9ow306holStKL-53">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.48;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-53" target="gEktWJj9ow306holStKL-46">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-101" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" target="gEktWJj9ow306holStKL-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1244" y="2584.341708542714" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-102" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-1" target="gEktWJj9ow306holStKL-47">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-20" value="VMD分解&#xa;(K=5)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="921" y="910" width="119" height="50" as="geometry" />
+          <mxGeometry x="962" y="912" width="119" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -168,6 +128,49 @@
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-178" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 25px;&quot;&gt;...&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1058" y="1038.5" width="55" height="37.25" as="geometry" />
+        </mxCell>
+        <mxCell id="gEktWJj9ow306holStKL-180" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="772" y="2458" width="300" height="562" as="geometry" />
+        </mxCell>
+        <mxCell id="gEktWJj9ow306holStKL-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gEktWJj9ow306holStKL-180">
+          <mxGeometry y="311" width="300" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="gEktWJj9ow306holStKL-43" value="单步滚动预测&#xa;(Walk-Forward)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gEktWJj9ow306holStKL-180">
+          <mxGeometry x="75" width="170" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="gEktWJj9ow306holStKL-44" value="预测序列输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gEktWJj9ow306holStKL-180">
+          <mxGeometry x="72" y="116" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gEktWJj9ow306holStKL-46" value="模型评价&#xa;(RMSE / MAE / R² / NSE&#xa;Pearson_r / MaxAE / P95AE)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gEktWJj9ow306holStKL-180">
+          <mxGeometry x="35" y="336" width="230" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="gEktWJj9ow306holStKL-47" value="预测和评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gEktWJj9ow306holStKL-180">
+          <mxGeometry x="79" y="513" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gEktWJj9ow306holStKL-53" value="·" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="gEktWJj9ow306holStKL-180">
+          <mxGeometry x="140" y="240" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="gEktWJj9ow306holStKL-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="gEktWJj9ow306holStKL-180" source="gEktWJj9ow306holStKL-43" target="gEktWJj9ow306holStKL-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="91" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gEktWJj9ow306holStKL-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.48;entryY=0.01;rounded=0;" edge="1" parent="gEktWJj9ow306holStKL-180" source="gEktWJj9ow306holStKL-44" target="gEktWJj9ow306holStKL-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gEktWJj9ow306holStKL-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.48;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="gEktWJj9ow306holStKL-180" source="gEktWJj9ow306holStKL-53" target="gEktWJj9ow306holStKL-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gEktWJj9ow306holStKL-102" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="gEktWJj9ow306holStKL-180" source="gEktWJj9ow306holStKL-1" target="gEktWJj9ow306holStKL-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
