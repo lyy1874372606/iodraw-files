@@ -199,6 +199,9 @@
         <mxCell id="th_m48rzTfyoSlj6HmnU-99" value="&lt;font color=&quot;#000000&quot;&gt;输入：&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;span style=&quot;font-size: 14.1667px;&quot;&gt;&lt;sub&gt;de&lt;/sub&gt;={X&lt;sub&gt;label&lt;/sub&gt;,X&lt;sub&gt;0&lt;/sub&gt;}&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="600" y="850" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="th_m48rzTfyoSlj6HmnU-100" value="&lt;font color=&quot;#000000&quot;&gt;解码器&lt;/font&gt;qi&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="790" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
