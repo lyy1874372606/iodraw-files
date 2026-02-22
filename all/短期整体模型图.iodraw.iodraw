@@ -13,7 +13,7 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-4" value="分支B：BiLSTM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="892" y="1359" width="302" height="297" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-5" value="分支A：Informer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-5" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="1359" width="307" height="421" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-6" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
