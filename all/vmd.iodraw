@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lbz4l819wb7b4t988nfn">
-    <mxGraphModel dx="478" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,10 +19,10 @@
         <mxCell id="NBAdNR45K9DQTAvm9djl-4" value="迭代更新&#xa;" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;spacingBottom=-14;" parent="NBAdNR45K9DQTAvm9djl-13" vertex="1">
           <mxGeometry y="332" width="256" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NBAdNR45K9DQTAvm9djl-5" value="是否收敛" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="NBAdNR45K9DQTAvm9djl-13" vertex="1">
+        <mxCell id="NBAdNR45K9DQTAvm9djl-5" value="是否收敛" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="NBAdNR45K9DQTAvm9djl-13" vertex="1">
           <mxGeometry x="71" y="454" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="NBAdNR45K9DQTAvm9djl-6" value="输出分量&#xa;u1..uK + residual" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="NBAdNR45K9DQTAvm9djl-13" vertex="1">
+        <mxCell id="NBAdNR45K9DQTAvm9djl-6" value="输出分量" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="NBAdNR45K9DQTAvm9djl-13" vertex="1">
           <mxGeometry x="29" y="642" width="198" height="67" as="geometry" />
         </mxCell>
         <mxCell id="NBAdNR45K9DQTAvm9djl-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="NBAdNR45K9DQTAvm9djl-13" source="NBAdNR45K9DQTAvm9djl-1" target="NBAdNR45K9DQTAvm9djl-2" edge="1">
