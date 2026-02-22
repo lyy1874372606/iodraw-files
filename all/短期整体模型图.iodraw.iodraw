@@ -29,7 +29,7 @@
           <mxGeometry x="793" y="736" width="233" height="62" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-14" value="外生变量矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="706" y="1016" width="157" height="49" as="geometry" />
+          <mxGeometry x="798" y="852" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-15" value="外生变量构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1430" y="1016" width="158" height="49" as="geometry" />
@@ -153,13 +153,6 @@
             <Array as="points" />
             <mxPoint x="894.75" y="552" as="sourcePoint" />
             <mxPoint x="884.25" y="662" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-13" target="gEktWJj9ow306holStKL-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="785" y="991" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-16" target="gEktWJj9ow306holStKL-17">
