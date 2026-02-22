@@ -26,7 +26,7 @@
           <mxGeometry x="267" y="857" width="1128" height="233" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-9" value="获取月尺度数据&#xa;(CWQI 2021-2025)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="805" y="411" width="188" height="67" as="geometry" />
+          <mxGeometry x="805" y="411" width="188" height="47" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-10" value="数据预处理&#xa;(时间连续性检查 + 缺失处理)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="794" y="528" width="191" height="84" as="geometry" />
@@ -435,9 +435,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-159" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="888" y="512" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
