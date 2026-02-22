@@ -16,7 +16,7 @@
         <mxCell id="NBAdNR45K9DQTAvm9djl-3" value="初始化模态 u1..uK 与中心频率 w1..wK" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="NBAdNR45K9DQTAvm9djl-13" vertex="1">
           <mxGeometry x="29" y="216" width="199" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="NBAdNR45K9DQTAvm9djl-4" value="迭代更新&#xa;" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="NBAdNR45K9DQTAvm9djl-13" vertex="1">
+        <mxCell id="NBAdNR45K9DQTAvm9djl-4" value="迭代更新&#xa;" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;spacingBottom=-14;" parent="NBAdNR45K9DQTAvm9djl-13" vertex="1">
           <mxGeometry y="332" width="256" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NBAdNR45K9DQTAvm9djl-5" value="是否收敛" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="NBAdNR45K9DQTAvm9djl-13" vertex="1">
