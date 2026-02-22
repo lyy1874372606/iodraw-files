@@ -233,13 +233,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-23" value="特征输出B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="758" y="1338" width="134" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="825" y="1239" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="759" y="1270" width="134" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
