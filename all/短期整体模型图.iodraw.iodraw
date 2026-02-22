@@ -25,6 +25,14 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-10" value="原始时间序列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="601" y="343" width="157" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-11" target="tIL0x2nf-udAQ6Uirgnj-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="580" />
+              <mxPoint x="680" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-11" value="缺失处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="576" y="492" width="207" height="68" as="geometry" />
         </mxCell>
@@ -96,7 +104,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-12" target="tIL0x2nf-udAQ6Uirgnj-13">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.481;exitY=1.03;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-12" target="tIL0x2nf-udAQ6Uirgnj-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
