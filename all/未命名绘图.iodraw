@@ -165,7 +165,7 @@
           <mxGeometry x="670" y="280" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-76" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="65" y="545" width="230" height="175" as="geometry" />
+          <mxGeometry x="65" y="545" width="265" height="175" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-66" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b46504;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fad7ac;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
           <mxGeometry x="40" y="50" width="100" height="40" as="geometry" />
@@ -182,6 +182,9 @@
         <mxCell id="th_m48rzTfyoSlj6HmnU-106" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.18828451882845187;arcSize=10;flipV=1;labelPosition=center;align=center;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;direction=west;strokeColor=#10739e;fontColor=default;fillColor=#B1DDF0;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
           <mxGeometry x="60.25" y="30" width="59.75" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="th_m48rzTfyoSlj6HmnU-93" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b46504;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fad7ac;aspect=fixed;size=10;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
+          <mxGeometry x="215" y="110" width="50" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-90" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="260" y="600" width="160" height="130" as="geometry" />
         </mxCell>
@@ -192,9 +195,6 @@
           <mxGeometry y="90" width="130" height="30" as="geometry">
             <mxRectangle y="90" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="th_m48rzTfyoSlj6HmnU-93" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b46504;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fad7ac;aspect=fixed;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-90">
-          <mxGeometry x="20" y="42" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-98" value="&lt;font color=&quot;#000000&quot;&gt;输入：&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;sub&gt;en&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="190" y="850" width="90" height="30" as="geometry" />
