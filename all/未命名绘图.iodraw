@@ -21,6 +21,15 @@
         <mxCell id="yS2qXyoB70y8bkvbVp4u-4" value="外生变量构造" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="246" y="236" width="158" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yS2qXyoB70y8bkvbVp4u-5" target="yS2qXyoB70y8bkvbVp4u-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="365" />
+              <mxPoint x="200" y="425" />
+              <mxPoint x="325" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-5" value="VMD分解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="340" width="164" height="50" as="geometry" />
         </mxCell>
