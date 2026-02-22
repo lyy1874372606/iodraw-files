@@ -10,6 +10,18 @@
         <mxCell id="gdbvxgitAdAcSk3XHLnh-3" value="C&lt;sub&gt;t-1&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="140" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gdbvxgitAdAcSk3XHLnh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353" y="190" as="sourcePoint" />
+            <mxPoint x="353" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdbvxgitAdAcSk3XHLnh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fad7ac;strokeColor=#b46504;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="363" y="200" as="sourcePoint" />
+            <mxPoint x="363" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
