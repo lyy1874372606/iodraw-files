@@ -68,9 +68,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdbvxgitAdAcSk3XHLnh-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.175;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gdbvxgitAdAcSk3XHLnh-7" target="gdbvxgitAdAcSk3XHLnh-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gdbvxgitAdAcSk3XHLnh-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="gdbvxgitAdAcSk3XHLnh-1" target="gdbvxgitAdAcSk3XHLnh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="490" as="sourcePoint" />
