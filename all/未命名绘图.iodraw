@@ -180,7 +180,7 @@
           <mxGeometry x="100" y="-10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-106" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.10964912280701754;arcSize=10;flipV=1;labelPosition=center;align=center;strokeColor=#314354;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;fillColor=#4D4D4D;gradientColor=none;direction=west;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
-          <mxGeometry x="62.25" y="30" width="55.5" height="20" as="geometry" />
+          <mxGeometry x="60.25" y="30" width="59.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-90" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="254" y="600" width="160" height="130" as="geometry" />
