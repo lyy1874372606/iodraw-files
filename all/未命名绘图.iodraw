@@ -22,22 +22,17 @@
         <mxCell id="yS2qXyoB70y8bkvbVp4u-4" value="外生变量构造" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="263.99" y="340" width="113.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yS2qXyoB70y8bkvbVp4u-5" target="yS2qXyoB70y8bkvbVp4u-7" edge="1">
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yS2qXyoB70y8bkvbVp4u-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="460" />
               <mxPoint x="320" y="460" />
             </Array>
+            <mxPoint x="320.02857142857147" y="469.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-5" value="VMD分解" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="238.87" y="390" width="164" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-6" value="u1" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="165.5" y="460" width="77" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-7" value="u2-u4" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="282.5" y="469.5" width="77.5" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-8" value="u5" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="400.25" y="469.5" width="49.75" height="30.5" as="geometry" />
@@ -134,10 +129,10 @@
           <mxGeometry x="249.25" y="230" width="150.5" height="53" as="geometry" />
         </mxCell>
         <mxCell id="a5Ba5QvrXNB7DOZfkwk2-3" value="u2-u4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="410.25" y="479.5" width="49.75" height="30.5" as="geometry" />
+          <mxGeometry x="299.62" y="469.5" width="49.75" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="a5Ba5QvrXNB7DOZfkwk2-4" value="u1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="408.25" y="540" width="49.75" height="30.5" as="geometry" />
+          <mxGeometry x="220" y="469.5" width="49.75" height="30.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
