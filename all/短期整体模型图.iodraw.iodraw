@@ -37,10 +37,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-13" value="滑窗构造" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="630" width="216" height="50" as="geometry" />
+          <mxGeometry x="571.5" y="590" width="216" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-14" value="划分数据集&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="565" y="776.5" width="220" height="66" as="geometry" />
+          <mxGeometry x="570" y="690" width="220" height="66" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-15" value="VMD 多尺度分解&#xa;K=8" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="702" y="1069" width="177" height="67" as="geometry" />
@@ -105,7 +105,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="679.2" y="477" as="sourcePoint" />
-            <mxPoint x="679.2" y="630" as="targetPoint" />
+            <mxPoint x="679" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-15" target="tIL0x2nf-udAQ6Uirgnj-16">
