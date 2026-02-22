@@ -183,7 +183,7 @@
           <mxGeometry x="60.25" y="30" width="59.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-90" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="254" y="600" width="160" height="130" as="geometry" />
+          <mxGeometry x="260" y="600" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-87" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#10739e;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#b1ddf0;size=10;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-90">
           <mxGeometry x="16" y="70" width="104" height="20" as="geometry" />
@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-93" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b46504;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fad7ac;aspect=fixed;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-90">
-          <mxGeometry x="40" y="40" width="50" height="20" as="geometry" />
+          <mxGeometry x="20" y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-98" value="&lt;font color=&quot;#000000&quot;&gt;输入：&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;sub&gt;en&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="190" y="850" width="90" height="30" as="geometry" />
