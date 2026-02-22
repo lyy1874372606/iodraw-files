@@ -34,8 +34,8 @@
         <mxCell id="gEktWJj9ow306holStKL-15" value="外生变量构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1319" y="797" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-16" value="ARIMA" style="whiteSpace=wrap;strokeWidth=2;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="672" y="1872" width="106" height="49" as="geometry" />
+        <mxCell id="gEktWJj9ow306holStKL-16" value="ARIMA" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="663" y="1857" width="106" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-17" value="SARIMAX&#xa;(带外生变量)" style="whiteSpace=wrap;strokeWidth=2;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="649" y="1980" width="152" height="67" as="geometry" />
