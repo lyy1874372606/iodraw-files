@@ -139,7 +139,7 @@
             <mxGeometry x="520" y="465" width="260" height="260" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="th_m48rzTfyoSlj6HmnU-42" value="全连接层" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="th_m48rzTfyoSlj6HmnU-42" value="&lt;font color=&quot;#000000&quot;&gt;全连接层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;fillColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="410" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
