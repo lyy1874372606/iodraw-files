@@ -1,69 +1,66 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lbz4l819wb7b4t988nfn">
-    <mxGraphModel dx="276" dy="161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yweS75yNaJvlfst-U2Sp-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="230" width="261" height="755" as="geometry" />
+        <mxCell id="yweS75yNaJvlfst-U2Sp-1" value="输入序列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="348" y="220" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-1" value="输入序列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yweS75yNaJvlfst-U2Sp-15">
-          <mxGeometry x="88" width="124" height="49" as="geometry" />
+        <mxCell id="yweS75yNaJvlfst-U2Sp-2" value="非季节与季节差分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="316" y="319" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-2" value="非季节与季节差分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yweS75yNaJvlfst-U2Sp-15">
-          <mxGeometry x="56" y="99" width="189" height="49" as="geometry" />
+        <mxCell id="yweS75yNaJvlfst-U2Sp-3" value="确定季节与非季节阶数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="418" width="222" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-3" value="确定季节与非季节阶数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yweS75yNaJvlfst-U2Sp-15">
-          <mxGeometry x="39" y="198" width="222" height="49" as="geometry" />
+        <mxCell id="yweS75yNaJvlfst-U2Sp-4" value="拟合SARIMA模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="517" width="177" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-4" value="拟合SARIMA模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yweS75yNaJvlfst-U2Sp-15">
-          <mxGeometry y="297" width="177" height="49" as="geometry" />
+        <mxCell id="yweS75yNaJvlfst-U2Sp-5" value="残差诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="285" y="639" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-5" value="残差诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yweS75yNaJvlfst-U2Sp-15">
-          <mxGeometry x="25" y="419" width="126" height="49" as="geometry" />
+        <mxCell id="yweS75yNaJvlfst-U2Sp-6" value="是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="353" y="738" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-6" value="是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="yweS75yNaJvlfst-U2Sp-15">
-          <mxGeometry x="93" y="518" width="115" height="115" as="geometry" />
+        <mxCell id="yweS75yNaJvlfst-U2Sp-7" value="预测输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="348" y="926" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-7" value="预测输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="yweS75yNaJvlfst-U2Sp-15">
-          <mxGeometry x="88" y="706" width="125" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="yweS75yNaJvlfst-U2Sp-15" source="yweS75yNaJvlfst-U2Sp-1" target="yweS75yNaJvlfst-U2Sp-2">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yweS75yNaJvlfst-U2Sp-1" target="yweS75yNaJvlfst-U2Sp-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="yweS75yNaJvlfst-U2Sp-15" source="yweS75yNaJvlfst-U2Sp-2" target="yweS75yNaJvlfst-U2Sp-3">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yweS75yNaJvlfst-U2Sp-2" target="yweS75yNaJvlfst-U2Sp-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-10" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.225;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="yweS75yNaJvlfst-U2Sp-15" source="yweS75yNaJvlfst-U2Sp-3" target="yweS75yNaJvlfst-U2Sp-4">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-10" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.225;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yweS75yNaJvlfst-U2Sp-3" target="yweS75yNaJvlfst-U2Sp-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="89" y="250" as="sourcePoint" />
+            <mxPoint x="349" y="470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="yweS75yNaJvlfst-U2Sp-15" source="yweS75yNaJvlfst-U2Sp-4" target="yweS75yNaJvlfst-U2Sp-5">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yweS75yNaJvlfst-U2Sp-4" target="yweS75yNaJvlfst-U2Sp-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.12;entryY=0;rounded=0;" edge="1" parent="yweS75yNaJvlfst-U2Sp-15" source="yweS75yNaJvlfst-U2Sp-5" target="yweS75yNaJvlfst-U2Sp-6">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.12;entryY=0;rounded=0;" edge="1" parent="1" source="yweS75yNaJvlfst-U2Sp-5" target="yweS75yNaJvlfst-U2Sp-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="88" y="493" />
+              <mxPoint x="348" y="713" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-13" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0;entryX=0.64;entryY=1;rounded=0;" edge="1" parent="yweS75yNaJvlfst-U2Sp-15" source="yweS75yNaJvlfst-U2Sp-6" target="yweS75yNaJvlfst-U2Sp-3">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-13" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0;entryX=0.64;entryY=1;rounded=0;" edge="1" parent="1" source="yweS75yNaJvlfst-U2Sp-6" target="yweS75yNaJvlfst-U2Sp-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="212" y="493" />
-              <mxPoint x="212" y="272" />
+              <mxPoint x="472" y="713" />
+              <mxPoint x="472" y="492" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-14" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="yweS75yNaJvlfst-U2Sp-15" source="yweS75yNaJvlfst-U2Sp-6" target="yweS75yNaJvlfst-U2Sp-7">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-14" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yweS75yNaJvlfst-U2Sp-6" target="yweS75yNaJvlfst-U2Sp-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
