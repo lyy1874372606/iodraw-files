@@ -173,7 +173,7 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-27" value="损失与优化&#xa;Huber/ Adam" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-78">
           <mxGeometry y="235" width="236" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-28" value="模型评价（测试集）&#xa;RMSE / MAE / MAPE / R²" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-78">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-28" value="模型评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-78">
           <mxGeometry x="1" y="365" width="235" height="67" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="tIL0x2nf-udAQ6Uirgnj-78" source="tIL0x2nf-udAQ6Uirgnj-24" target="tIL0x2nf-udAQ6Uirgnj-25">
