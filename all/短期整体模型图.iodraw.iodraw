@@ -39,8 +39,8 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-13" value="滑窗构造" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="571.5" y="590" width="216" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-14" value="划分数据集&#xa;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;spacingBottom=4;" vertex="1" parent="1">
-          <mxGeometry x="570" y="690" width="220" height="40" as="geometry" />
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-14" value="划分数据集&#xa;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;spacingBottom=-13;" vertex="1" parent="1">
+          <mxGeometry x="570" y="690" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-15" value="VMD 多尺度分解&#xa;K=8" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="702" y="1069" width="177" height="67" as="geometry" />
