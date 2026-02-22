@@ -86,14 +86,11 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-25" value="预测投影&#xa;Linear" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="799" y="1972" width="126" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-26" value="残差纠偏头（可选）&#xa;最终预测 = base + residual" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="737" y="2089" width="251" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-27" value="损失与优化&#xa;Huber（可消融）/ Adam" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="744" y="2205" width="236" height="67" as="geometry" />
+          <mxGeometry x="746" y="2090" width="236" height="67" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-28" value="模型评价（测试集）&#xa;RMSE / MAE / MAPE / R²" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="744" y="2322" width="235" height="67" as="geometry" />
+          <mxGeometry x="747" y="2220" width="235" height="67" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-29" value="获取数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1140" y="260" width="126" height="49" as="geometry" />
@@ -168,14 +165,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-25" target="tIL0x2nf-udAQ6Uirgnj-26">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-26" target="tIL0x2nf-udAQ6Uirgnj-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="862.5" y="2089" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-27" target="tIL0x2nf-udAQ6Uirgnj-28">
