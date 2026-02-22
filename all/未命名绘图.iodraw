@@ -34,6 +34,11 @@
         <mxCell id="yS2qXyoB70y8bkvbVp4u-5" value="VMD分解" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="263.99" y="390" width="116.01" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="K8NBXdoMsMpptYLcLANr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yS2qXyoB70y8bkvbVp4u-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-8" value="u5低频" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="382" y="469.5" width="62.26" height="30.5" as="geometry" />
         </mxCell>
