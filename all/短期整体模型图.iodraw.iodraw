@@ -19,9 +19,6 @@
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-6" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="181" y="757" width="1209" height="481" as="geometry" />
         </mxCell>
-        <mxCell id="0qw4hvIUzOlSYP-U8inQ-7" value="" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="288" y="893" width="1163" height="99" as="geometry" />
-        </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-9" value="获取水质数据&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;spacingBottom=-14;" parent="1" vertex="1">
           <mxGeometry x="697" y="352" width="193" height="38" as="geometry" />
         </mxCell>
