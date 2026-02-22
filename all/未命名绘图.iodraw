@@ -193,7 +193,7 @@
           <mxGeometry x="40" y="30" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-72" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#10739e;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#b1ddf0;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-77">
-          <mxGeometry x="60" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="10" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-73" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#10739e;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#b1ddf0;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-77">
           <mxGeometry x="20" y="60" width="140" height="30" as="geometry" />
