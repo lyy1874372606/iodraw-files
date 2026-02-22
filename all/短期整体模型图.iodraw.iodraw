@@ -180,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-20" value="VMD分解&#xa;(K=5)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1004" y="987" width="125" height="67" as="geometry" />
+          <mxGeometry x="1004" y="987" width="116" height="53" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-21" value="u1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="895" y="1120" width="80" height="50" as="geometry" />
