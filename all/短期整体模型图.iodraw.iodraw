@@ -29,7 +29,7 @@
           <mxGeometry x="698" y="463" width="197" height="51" as="geometry" />
         </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-11" value="日尺度时间序列&#xa;[B, T, 1]" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="702" y="615" width="194" height="67" as="geometry" />
+          <mxGeometry x="700" y="615" width="196" height="44" as="geometry" />
         </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-12" value="获取数据" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1133" y="424" width="126" height="49" as="geometry" />
@@ -126,7 +126,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-42" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="0qw4hvIUzOlSYP-U8inQ-10" target="0qw4hvIUzOlSYP-U8inQ-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="796" y="564" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-43" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="0qw4hvIUzOlSYP-U8inQ-13" target="0qw4hvIUzOlSYP-U8inQ-14" edge="1">
           <mxGeometry relative="1" as="geometry">
