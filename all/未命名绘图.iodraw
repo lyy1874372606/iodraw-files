@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-5" value="VMD分解" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="243" y="380" width="164" height="50" as="geometry" />
+          <mxGeometry x="312.75" y="340" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-6" value="u1" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="165.5" y="460" width="77" height="49" as="geometry" />
@@ -120,8 +120,10 @@
             <mxPoint x="330" y="420" as="sourcePoint" />
             <mxPoint x="440" y="460" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="330" y="440" />
               <mxPoint x="320" y="420" />
-              <mxPoint x="440" y="420" />
+              <mxPoint x="420" y="440" />
+              <mxPoint x="438" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
