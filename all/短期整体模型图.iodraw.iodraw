@@ -134,7 +134,7 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-75" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="390" y="1140" width="237" height="371" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-17" value="分量注意力融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-75">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-17" value="分量注意力融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-75">
           <mxGeometry width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-18" value="输入投影" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-75">
@@ -164,7 +164,7 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-77" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="720" y="1140" width="210" height="247" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-21" value="BiLSTM 序列建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-77">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-21" value="BiLSTM 序列建模" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-77">
           <mxGeometry x="16" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-22" value="提取最后 pred_len=3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-77">
