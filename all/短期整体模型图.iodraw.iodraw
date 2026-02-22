@@ -63,13 +63,6 @@
         <mxCell id="gEktWJj9ow306holStKL-20" value="VMD分解&#xa;(K=5)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="962" y="912" width="119" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1293" y="1111.5" as="sourcePoint" />
-            <mxPoint x="1308.5" y="1320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-16" value="ARIMA" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="746" y="912" width="114" height="48" as="geometry" />
         </mxCell>
@@ -138,7 +131,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-181" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1069" y="1863" width="211" height="520" as="geometry" />
+          <mxGeometry x="940" y="1150" width="211" height="520" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-26" value="分量级建模&#xa;(ARIMA / SARIMAX)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gEktWJj9ow306holStKL-181">
           <mxGeometry x="9" width="194" height="67" as="geometry" />
