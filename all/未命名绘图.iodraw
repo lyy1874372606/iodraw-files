@@ -128,8 +128,8 @@
             <mxGeometry x="150" y="20" width="340" height="190" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="BC-oeG1tLGuQBk_34igY-3" value="&lt;h1&gt;&lt;b&gt;&lt;font color=&quot;#0066cc&quot;&gt;数据预处理&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="310" width="270" height="130" as="geometry" />
+        <mxCell id="BC-oeG1tLGuQBk_34igY-3" value="&lt;h1&gt;&lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;数据预处理&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="80" width="270" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
