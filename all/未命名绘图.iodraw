@@ -148,10 +148,10 @@
             <mxPoint x="530" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="th_m48rzTfyoSlj6HmnU-44" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" edge="1" parent="1">
+        <mxCell id="th_m48rzTfyoSlj6HmnU-44" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;exitX=-0.028;exitY=-0.035;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="th_m48rzTfyoSlj6HmnU-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="640" as="sourcePoint" />
-            <mxPoint x="530" y="590" as="targetPoint" />
+            <mxPoint x="240" y="760" as="sourcePoint" />
+            <mxPoint x="240" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
