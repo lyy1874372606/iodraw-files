@@ -26,10 +26,10 @@
           <mxGeometry x="697" y="352" width="193" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-10" value="数据预处理&#xa;标准化 + 滑动窗口构造" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="698" y="463" width="204" height="59" as="geometry" />
+          <mxGeometry x="698" y="463" width="197" height="51" as="geometry" />
         </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-11" value="日尺度时间序列&#xa;[B, T, 1]" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="702" y="615" width="172" height="67" as="geometry" />
+          <mxGeometry x="702" y="615" width="194" height="67" as="geometry" />
         </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-12" value="获取数据" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1133" y="424" width="126" height="49" as="geometry" />
