@@ -34,9 +34,6 @@
         <mxCell id="gdbvxgitAdAcSk3XHLnh-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gdbvxgitAdAcSk3XHLnh-13" target="gdbvxgitAdAcSk3XHLnh-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gdbvxgitAdAcSk3XHLnh-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gdbvxgitAdAcSk3XHLnh-13" target="gdbvxgitAdAcSk3XHLnh-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gdbvxgitAdAcSk3XHLnh-13" value="&lt;span class=&quot;mTEjhd&quot; data-processed=&quot;true&quot; style=&quot;display: inline;&quot;&gt;&lt;span class=&quot;dteT0b&quot; data-processed=&quot;true&quot; style=&quot;font-size: 1.15em;&quot;&gt;&lt;div data-xpm-copy-root=&quot;&quot; data-processed=&quot;true&quot; style=&quot;position: relative; direction: ltr; display: inline-block;&quot;&gt;&lt;span style=&quot;color: rgb(32, 33, 34); font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;σ&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="290" y="395" width="40" height="30" as="geometry" />
         </mxCell>
