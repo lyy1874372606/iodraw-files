@@ -35,10 +35,10 @@
           <mxGeometry x="1133" y="424" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-13" value="VMD分解&#xa;(K=8)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="725" y="782" width="147" height="67" as="geometry" />
+          <mxGeometry x="725" y="782" width="147" height="51" as="geometry" />
         </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-14" value="IMF1" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="236" y="923" width="93" height="49" as="geometry" />
+          <mxGeometry x="236" y="923" width="72" height="22" as="geometry" />
         </mxCell>
         <mxCell id="0qw4hvIUzOlSYP-U8inQ-15" value="IMF2" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="379" y="923" width="93" height="49" as="geometry" />
