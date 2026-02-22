@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lbz4l819wb7b4t988nfn">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,13 +109,13 @@
           </mxCell>
         </object>
         <mxCell id="BC-oeG1tLGuQBk_34igY-3" value="&lt;h1&gt;&lt;b&gt;&lt;font color=&quot;#0066cc&quot;&gt;数据预处理&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="476.75" y="121.5" width="270" height="130" as="geometry" />
+          <mxGeometry x="580" y="120" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BC-oeG1tLGuQBk_34igY-4" value="&lt;h1&gt;&lt;font color=&quot;#0066cc&quot;&gt;组合模型构建&lt;/font&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="610" y="430" width="270" height="130" as="geometry" />
+          <mxGeometry x="600" y="430" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BC-oeG1tLGuQBk_34igY-5" value="&lt;h1&gt;&lt;font color=&quot;#0066cc&quot;&gt;获取数据&lt;/font&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="476.75" y="7" width="270" height="130" as="geometry" />
+          <mxGeometry x="590" y="5" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BC-oeG1tLGuQBk_34igY-6" value="&lt;h1&gt;&lt;font color=&quot;#0066cc&quot;&gt;预测与评价&lt;/font&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="849" width="270" height="130" as="geometry" />
