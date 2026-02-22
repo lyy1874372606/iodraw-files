@@ -143,15 +143,6 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-19" value="Informer 编码-解码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-75">
           <mxGeometry x="20" y="198" width="197" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tIL0x2nf-udAQ6Uirgnj-75" source="tIL0x2nf-udAQ6Uirgnj-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="259.9999999999998" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="119" y="400" />
-              <mxPoint x="260" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-20" value="特征输出A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-75">
           <mxGeometry x="51" y="322" width="135" height="49" as="geometry" />
         </mxCell>
@@ -238,6 +229,9 @@
               <mxPoint x="838" y="1070" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.024;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-20" target="tIL0x2nf-udAQ6Uirgnj-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
