@@ -74,11 +74,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gdbvxgitAdAcSk3XHLnh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="gdbvxgitAdAcSk3XHLnh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.14;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gdbvxgitAdAcSk3XHLnh-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="221" y="540" as="sourcePoint" />
             <mxPoint x="221" y="500" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="221" y="500" />
               <mxPoint x="221" y="500" />
             </Array>
           </mxGeometry>
