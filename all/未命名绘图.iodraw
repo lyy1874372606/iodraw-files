@@ -188,11 +188,6 @@
         <mxCell id="th_m48rzTfyoSlj6HmnU-87" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#10739e;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#b1ddf0;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-90">
           <mxGeometry x="20" y="60" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="th_m48rzTfyoSlj6HmnU-88" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b46504;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fad7ac;container=1;" vertex="1" collapsed="1" parent="th_m48rzTfyoSlj6HmnU-90">
-          <mxGeometry y="90" width="50" height="40" as="geometry">
-            <mxRectangle y="90" width="130" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-93" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b46504;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fad7ac;aspect=fixed;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-90">
           <mxGeometry x="40" y="40" width="50" height="20" as="geometry" />
         </mxCell>
