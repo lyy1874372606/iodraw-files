@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-4" value="外生变量构造" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="51.75" y="390" width="113.75" height="30" as="geometry" />
+          <mxGeometry x="264" y="320" width="113.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yS2qXyoB70y8bkvbVp4u-5" target="yS2qXyoB70y8bkvbVp4u-7" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-5" value="VMD分解" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="312.75" y="340" width="164" height="50" as="geometry" />
+          <mxGeometry x="363" y="380" width="164" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-6" value="u1" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="165.5" y="460" width="77" height="49" as="geometry" />
