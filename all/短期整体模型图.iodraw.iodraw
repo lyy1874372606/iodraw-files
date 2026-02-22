@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-20" value="VMD分解&#xa;(K=5)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="921" y="910" width="116" height="53" as="geometry" />
+          <mxGeometry x="921" y="910" width="119" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -166,8 +166,8 @@
         <mxCell id="gEktWJj9ow306holStKL-25" value="u5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1108" y="1040" width="56" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;" edge="1" parent="1" source="gEktWJj9ow306holStKL-20" target="gEktWJj9ow306holStKL-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gEktWJj9ow306holStKL-178" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="800" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
