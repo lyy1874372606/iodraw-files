@@ -29,7 +29,7 @@
           <mxGeometry x="576" y="492" width="207" height="67" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-12" value="标准化&#xa;MinMaxScaler" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="600" width="158" height="67" as="geometry" />
+          <mxGeometry x="580" y="600" width="200" height="67" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-13" value="滑窗构造&#xa;window=96 / label=48 / pred=3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="564" y="750" width="233" height="84" as="geometry" />
