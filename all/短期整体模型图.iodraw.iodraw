@@ -167,10 +167,10 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-24" value="特征融合&#xa;Concat" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-78">
           <mxGeometry x="53" width="126" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-25" value="预测投影&#xa;Linear" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-78">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-25" value="预测投影&#xa;Linear" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-78">
           <mxGeometry x="53" y="117" width="126" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-27" value="损失与优化&#xa;Huber/ Adam" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-78">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-27" value="损失与优化&#xa;Huber/ Adam" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-78">
           <mxGeometry y="235" width="236" height="67" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-28" value="模型评价（测试集）&#xa;RMSE / MAE / MAPE / R²" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="tIL0x2nf-udAQ6Uirgnj-78">
