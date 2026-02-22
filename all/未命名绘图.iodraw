@@ -4,6 +4,58 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NBAdNR45K9DQTAvm9djl-1" value="输入序列 x" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="79" y="20" width="138" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="NBAdNR45K9DQTAvm9djl-2" value="设置参数&#xa;K, alpha, tau, tol" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="29" y="119" width="238" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="NBAdNR45K9DQTAvm9djl-3" value="初始化模态 u1..uK 与中心频率 w1..wK" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="49" y="236" width="199" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="NBAdNR45K9DQTAvm9djl-4" value="迭代更新&#xa;更新 u_k 与 w_k" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="352" width="256" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="NBAdNR45K9DQTAvm9djl-5" value="是否收敛" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="91" y="474" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="NBAdNR45K9DQTAvm9djl-6" value="输出分量&#xa;u1..uK + residual" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="49" y="662" width="198" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="NBAdNR45K9DQTAvm9djl-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="NBAdNR45K9DQTAvm9djl-1" target="NBAdNR45K9DQTAvm9djl-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBAdNR45K9DQTAvm9djl-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NBAdNR45K9DQTAvm9djl-2" target="NBAdNR45K9DQTAvm9djl-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBAdNR45K9DQTAvm9djl-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="NBAdNR45K9DQTAvm9djl-3" target="NBAdNR45K9DQTAvm9djl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBAdNR45K9DQTAvm9djl-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.48;exitY=1;entryX=0.42;entryY=0;rounded=0;" edge="1" parent="1" source="NBAdNR45K9DQTAvm9djl-4" target="NBAdNR45K9DQTAvm9djl-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="133" y="438" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBAdNR45K9DQTAvm9djl-11" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=0;entryX=0.52;entryY=1;rounded=0;" edge="1" parent="1" source="NBAdNR45K9DQTAvm9djl-5" target="NBAdNR45K9DQTAvm9djl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="163" y="438" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBAdNR45K9DQTAvm9djl-12" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="NBAdNR45K9DQTAvm9djl-5" target="NBAdNR45K9DQTAvm9djl-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
