@@ -7,10 +7,10 @@
         <mxCell id="jQu34QfNZX69bqj7fgg8-32" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="225" y="64" width="394" height="1019" as="geometry" />
         </mxCell>
-        <mxCell id="jQu34QfNZX69bqj7fgg8-1" value="输入序列" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="jQu34QfNZX69bqj7fgg8-32" vertex="1">
+        <mxCell id="jQu34QfNZX69bqj7fgg8-1" value="输入序列" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="jQu34QfNZX69bqj7fgg8-32" vertex="1">
           <mxGeometry x="147" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jQu34QfNZX69bqj7fgg8-2" value="寻找极值点" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="jQu34QfNZX69bqj7fgg8-32" vertex="1">
+        <mxCell id="jQu34QfNZX69bqj7fgg8-2" value="寻找极值点" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="jQu34QfNZX69bqj7fgg8-32" vertex="1">
           <mxGeometry x="139" y="99" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-7" value="提取一个IMF" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="jQu34QfNZX69bqj7fgg8-32" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="jQu34QfNZX69bqj7fgg8-9" value="残差可继续分解" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1" parent="jQu34QfNZX69bqj7fgg8-32" vertex="1">
           <mxGeometry x="130.25" y="780" width="155.5" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="jQu34QfNZX69bqj7fgg8-10" value="输出IMF集合与残差" style="whiteSpace=wrap;strokeWidth=2;" parent="jQu34QfNZX69bqj7fgg8-32" vertex="1">
+        <mxCell id="jQu34QfNZX69bqj7fgg8-10" value="输出IMF集合与残差" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="jQu34QfNZX69bqj7fgg8-32" vertex="1">
           <mxGeometry x="111" y="970" width="197" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="jQu34QfNZX69bqj7fgg8-32" source="jQu34QfNZX69bqj7fgg8-1" target="jQu34QfNZX69bqj7fgg8-2" edge="1">
@@ -66,7 +66,7 @@
         <mxCell id="jQu34QfNZX69bqj7fgg8-3" value="构造上下包络" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="jQu34QfNZX69bqj7fgg8-32" vertex="1">
           <mxGeometry x="130" y="200" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jQu34QfNZX69bqj7fgg8-4" value="计算局部均值" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="jQu34QfNZX69bqj7fgg8-32" vertex="1">
+        <mxCell id="jQu34QfNZX69bqj7fgg8-4" value="计算局部均值" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="jQu34QfNZX69bqj7fgg8-32" vertex="1">
           <mxGeometry x="130" y="290" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jQu34QfNZX69bqj7fgg8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="jQu34QfNZX69bqj7fgg8-32" source="jQu34QfNZX69bqj7fgg8-5" target="jQu34QfNZX69bqj7fgg8-6" edge="1">
