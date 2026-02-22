@@ -10,7 +10,7 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-10" value="原始时间序列" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="601" y="343" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-12" value="缺失处理/标准化" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-12" value="缺失处理/标准化" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="575" y="490" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="tIL0x2nf-udAQ6Uirgnj-14">
@@ -43,7 +43,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-14" value="划分数据集&#xa;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;spacingBottom=-13;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-14" value="划分数据集&#xa;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;spacingBottom=-13;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="571.5" y="680" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-29" value="获取数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
