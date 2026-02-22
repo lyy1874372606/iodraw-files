@@ -59,7 +59,7 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-16" value="u1..u8 模态分量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="702" y="1185" width="176" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-17" value="分量注意力融合（可选）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-17" value="分量注意力融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="565" y="1384" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-18" value="输入投影" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
