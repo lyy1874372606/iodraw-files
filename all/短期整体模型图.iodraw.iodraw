@@ -1,13 +1,13 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="e54F1CEKFKMmflqJhWVb">
-    <mxGraphModel dx="1287" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="78" dy="-121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gEktWJj9ow306holStKL-9" value="获取月尺度数据&#xa;(CWQI 2021-2025)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="805" y="411" width="188" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-10" value="数据预处理&#xa;(时间连续性检查 + 缺失处理)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gEktWJj9ow306holStKL-10" value="数据预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="805" y="500" width="191" height="52" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-11" value="月度时间序列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -16,7 +16,7 @@
         <mxCell id="gEktWJj9ow306holStKL-12" value="获取数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1238" y="510" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-13" value="构造外生变量&#xa;rain / lag1 / lag2&#xa;month_sin / month_cos" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="gEktWJj9ow306holStKL-13" value="构造外生变量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="803" y="690" width="197" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-14" value="外生变量矩阵" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -49,11 +49,8 @@
         <mxCell id="gEktWJj9ow306holStKL-17" value="SARIMAX&#xa;(带外生变量)" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="735" y="1020" width="138" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-18" value="ETS模型" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="727" y="1130" width="153" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-19" value="单步预测输出" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="727" y="1220" width="156" height="49" as="geometry" />
+          <mxGeometry x="735" y="1130" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-21" value="u1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="902" y="1040" width="60" height="38.5" as="geometry" />
@@ -68,7 +65,7 @@
           <mxGeometry x="1058" y="1038.5" width="55" height="37.25" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-180" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="640" y="1360" width="300" height="562" as="geometry" />
+          <mxGeometry x="653" y="1270" width="300" height="562" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-43" value="单步滚动预测&#xa;(Walk-Forward)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gEktWJj9ow306holStKL-180">
           <mxGeometry x="75" width="170" height="67" as="geometry" />
