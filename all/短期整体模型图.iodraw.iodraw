@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1309" width="743" height="1104" as="geometry" />
-        </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="1334" width="703" height="471" as="geometry" />
         </mxCell>
@@ -211,9 +208,10 @@
             <mxPoint x="925" y="892.553311793215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-59" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-32" target="tIL0x2nf-udAQ6Uirgnj-2">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-59" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1226.5568119139548" y="1309" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" id="tIL0x2nf-udAQ6Uirgnj-60">
