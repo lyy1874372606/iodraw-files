@@ -4,10 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.472;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yS2qXyoB70y8bkvbVp4u-2" target="yS2qXyoB70y8bkvbVp4u-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320.8333333333335" y="130" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yS2qXyoB70y8bkvbVp4u-2" target="yS2qXyoB70y8bkvbVp4u-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-2" value="获取数据&#xa;月尺度CWQI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="249.25" y="50" width="150.75" height="50" as="geometry" />
