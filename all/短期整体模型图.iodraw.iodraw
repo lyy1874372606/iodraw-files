@@ -53,7 +53,7 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-14" value="划分数据集&#xa;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;spacingBottom=-13;" vertex="1" parent="1">
           <mxGeometry x="571.5" y="680" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-15" value="VMD 多尺度分解&#xa;K=8" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-15" value="VMD 多尺度分解&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="702" y="1069" width="177" height="67" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-16" value="u1..u8 模态分量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
