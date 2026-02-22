@@ -14,13 +14,13 @@
           <mxGeometry x="356" y="410" width="158" height="42" as="geometry" />
         </mxCell>
         <mxCell id="53AVRFLM_znfAYnoeNg--4" value="拟合ARIMA模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="536" width="169" height="49" as="geometry" />
+          <mxGeometry x="350" y="490" width="169" height="49" as="geometry" />
         </mxCell>
         <mxCell id="53AVRFLM_znfAYnoeNg--5" value="残差诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="372" y="640" width="126" height="49" as="geometry" />
+          <mxGeometry x="372" y="585" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="53AVRFLM_znfAYnoeNg--6" value="是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="377" y="730" width="115" height="115" as="geometry" />
+          <mxGeometry x="376.5" y="680" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="53AVRFLM_znfAYnoeNg--7" value="预测输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="900" width="125" height="49" as="geometry" />
