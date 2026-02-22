@@ -19,10 +19,10 @@
         <mxCell id="yweS75yNaJvlfst-U2Sp-5" value="残差诊断" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="347.5" y="580" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-6" value="是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-6" value="是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="352.5" y="670" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-7" value="预测输出" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-7" value="预测输出" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="348" y="926" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yweS75yNaJvlfst-U2Sp-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yweS75yNaJvlfst-U2Sp-1" target="yweS75yNaJvlfst-U2Sp-2">
@@ -58,7 +58,12 @@
             <mxPoint x="521.0000000000001" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-14" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yweS75yNaJvlfst-U2Sp-6" target="yweS75yNaJvlfst-U2Sp-7">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yweS75yNaJvlfst-U2Sp-13">
+          <mxGeometry x="0.0198" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yweS75yNaJvlfst-U2Sp-14" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontStyle=1" edge="1" parent="1" source="yweS75yNaJvlfst-U2Sp-6" target="yweS75yNaJvlfst-U2Sp-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
