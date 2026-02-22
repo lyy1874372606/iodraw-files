@@ -21,11 +21,8 @@
         <mxCell id="yS2qXyoB70y8bkvbVp4u-4" value="外生变量构造" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="246" y="236" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="324.33" y="392" as="sourcePoint" />
-            <mxPoint x="324.33" y="462" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yS2qXyoB70y8bkvbVp4u-5" target="yS2qXyoB70y8bkvbVp4u-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-5" value="VMD分解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="340" width="164" height="50" as="geometry" />
@@ -92,6 +89,12 @@
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-37" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="yS2qXyoB70y8bkvbVp4u-16" target="yS2qXyoB70y8bkvbVp4u-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="450" as="sourcePoint" />
+            <mxPoint x="410" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
