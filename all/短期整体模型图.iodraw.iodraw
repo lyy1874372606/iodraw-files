@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="e54F1CEKFKMmflqJhWVb">
-    <mxGraphModel dx="1687" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="989" dy="177" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-7" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="267" y="857" width="1128" height="233" as="geometry" />
-        </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-8" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="759" y="386" width="270" height="350" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-9" value="获取月尺度数据&#xa;(CWQI 2021-2025)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="805" y="411" width="188" height="67" as="geometry" />
@@ -419,9 +416,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-98" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-8" target="gEktWJj9ow306holStKL-12">
+        <mxCell id="gEktWJj9ow306holStKL-98" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" target="gEktWJj9ow306holStKL-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1029" y="565.9248927038627" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-99" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="gEktWJj9ow306holStKL-7" target="gEktWJj9ow306holStKL-15">
