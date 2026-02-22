@@ -43,13 +43,8 @@
         <mxCell id="yS2qXyoB70y8bkvbVp4u-10" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="263.49" y="536" width="122" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="a5Ba5QvrXNB7DOZfkwk2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yS2qXyoB70y8bkvbVp4u-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-11" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="435" y="558" width="122" height="49" as="geometry" />
+          <mxGeometry x="435.5" y="536" width="122" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-12" value="P1" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="103" y="682" width="77" height="49" as="geometry" />
@@ -58,7 +53,7 @@
           <mxGeometry x="286" y="682" width="77" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-14" value="P5" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="458" y="682" width="77" height="49" as="geometry" />
+          <mxGeometry x="458" y="650" width="77" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-15" value="预测重构" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="262" y="781" width="125" height="49" as="geometry" />
