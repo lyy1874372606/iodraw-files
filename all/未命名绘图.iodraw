@@ -129,10 +129,10 @@
           </mxCell>
         </object>
         <mxCell id="BC-oeG1tLGuQBk_34igY-3" value="&lt;h1&gt;&lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;数据预处理&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="250" width="270" height="130" as="geometry" />
+          <mxGeometry x="570" y="236" width="270" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="BC-oeG1tLGuQBk_34igY-4" value="&lt;h1&gt;&lt;b&gt;&lt;font color=&quot;#66b2ff&quot;&gt;数据预处理&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="370" width="270" height="130" as="geometry" />
+        <mxCell id="BC-oeG1tLGuQBk_34igY-4" value="&lt;h1&gt;&lt;font color=&quot;#66b2ff&quot;&gt;组合模型构建&lt;/font&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="430" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BC-oeG1tLGuQBk_34igY-5" value="&lt;h1&gt;&lt;font color=&quot;#66b2ff&quot;&gt;获取数据&lt;/font&gt;&lt;/h1&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="557" y="50" width="270" height="130" as="geometry" />
