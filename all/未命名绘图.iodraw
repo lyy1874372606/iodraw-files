@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-2" value="获取数据&#xa;月尺度CWQI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260.75" y="40" width="139" height="50" as="geometry" />
+          <mxGeometry x="249.25" y="50" width="150.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-3" value="数据预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="249.25" y="137" width="150.5" height="53" as="geometry" />
