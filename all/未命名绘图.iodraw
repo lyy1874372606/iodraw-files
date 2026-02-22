@@ -31,7 +31,7 @@
             <mxPoint x="320.02857142857147" y="469.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-5" value="VMD分解" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-5" value="VMD分解" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="263.99" y="390" width="116.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K8NBXdoMsMpptYLcLANr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -40,7 +40,7 @@
             <mxPoint x="444.2600000000001" y="490.76666666666677" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-8" value="u5低频" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-8" value="u5低频" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="382" y="469.5" width="62.26" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="a5Ba5QvrXNB7DOZfkwk2-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yS2qXyoB70y8bkvbVp4u-9" target="yS2qXyoB70y8bkvbVp4u-12" edge="1">
@@ -49,10 +49,10 @@
         <mxCell id="yS2qXyoB70y8bkvbVp4u-9" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="103" y="536" width="122" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-10" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-10" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="269" y="536" width="122" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-11" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-11" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="435.5" y="536" width="122" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-12" value="P1" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
