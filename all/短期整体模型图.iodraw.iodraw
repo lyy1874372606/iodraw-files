@@ -149,9 +149,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gEktWJj9ow306holStKL-161" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="817" y="1822" width="40" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-162" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="570" y="1003" width="156" height="405" as="geometry" />
         </mxCell>
@@ -183,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-20" value="VMD分解&#xa;(K=5)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1119" y="970" width="125" height="67" as="geometry" />
+          <mxGeometry x="996" y="1003" width="125" height="67" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-21" value="u1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="888" y="1182" width="77" height="49" as="geometry" />
