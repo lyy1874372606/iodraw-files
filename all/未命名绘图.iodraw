@@ -166,6 +166,18 @@
         <mxCell id="th_m48rzTfyoSlj6HmnU-54" value="&lt;font color=&quot;#000000&quot;&gt;编码器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="150" y="480" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="th_m48rzTfyoSlj6HmnU-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="550" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="th_m48rzTfyoSlj6HmnU-66" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b46504;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fad7ac;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
+          <mxGeometry x="40" y="50" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="th_m48rzTfyoSlj6HmnU-68" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#10739e;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#b1ddf0;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
+          <mxGeometry x="20" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="th_m48rzTfyoSlj6HmnU-69" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#b46504;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fad7ac;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-76">
+          <mxGeometry y="120" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-77" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="255" y="585" width="180" height="120" as="geometry" />
         </mxCell>
