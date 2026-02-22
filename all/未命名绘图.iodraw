@@ -4,16 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NBAdNR45K9DQTAvm9djl-13" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" connectable="0" parent="1">
+        <mxCell id="NBAdNR45K9DQTAvm9djl-13" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="250" y="280" width="256" height="709" as="geometry" />
         </mxCell>
-        <mxCell id="NBAdNR45K9DQTAvm9djl-1" value="输入序列 x" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
+        <mxCell id="NBAdNR45K9DQTAvm9djl-1" value="输入序列 x" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
           <mxGeometry x="59" width="138" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NBAdNR45K9DQTAvm9djl-2" value="设置参数&#xa;K, alpha, tau, tol" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
+        <mxCell id="NBAdNR45K9DQTAvm9djl-2" value="设置参数&#xa;K, alpha, tau, tol" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
           <mxGeometry x="9" y="99" width="238" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="NBAdNR45K9DQTAvm9djl-3" value="初始化模态 u1..uK 与中心频率 w1..wK" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
+        <mxCell id="NBAdNR45K9DQTAvm9djl-3" value="初始化模态 u1..uK 与中心频率 w1..wK" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
           <mxGeometry x="29" y="216" width="199" height="67" as="geometry" />
         </mxCell>
         <mxCell id="NBAdNR45K9DQTAvm9djl-4" value="迭代更新&#xa;更新 u_k 与 w_k" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="NBAdNR45K9DQTAvm9djl-13">
