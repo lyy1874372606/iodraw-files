@@ -13,16 +13,16 @@
         <mxCell id="yweS75yNaJvlfst-U2Sp-3" value="确定季节与非季节阶数" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="299" y="390" width="222" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-4" value="拟合SARIMA模型" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-4" value="拟合SARIMA模型" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="321.5" y="490" width="177" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-5" value="残差诊断" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-5" value="残差诊断" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="580" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-6" value="是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-6" value="是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="356.75" y="660" width="107.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-7" value="预测输出" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-7" value="预测输出" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="347" y="790" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yweS75yNaJvlfst-U2Sp-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yweS75yNaJvlfst-U2Sp-1" target="yweS75yNaJvlfst-U2Sp-2">
