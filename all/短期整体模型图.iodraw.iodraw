@@ -220,8 +220,11 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-93" value="&lt;h1&gt;&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;数据预处理&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1055" y="370" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-94" value="&lt;h1&gt;&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;数据预处理&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="520" width="170" height="80" as="geometry" />
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-94" value="&lt;h1&gt;&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;数据分解&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="520" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-95" value="&lt;h1&gt;&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;数据分解&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="530" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
