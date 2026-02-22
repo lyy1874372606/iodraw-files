@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lbz4l819wb7b4t988nfn">
-    <mxGraphModel dx="989" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
         <mxCell id="th_m48rzTfyoSlj6HmnU-10" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="260" y="600" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="th_m48rzTfyoSlj6HmnU-6" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-10">
+        <mxCell id="th_m48rzTfyoSlj6HmnU-6" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="th_m48rzTfyoSlj6HmnU-10">
           <mxGeometry width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-7" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="th_m48rzTfyoSlj6HmnU-10" source="th_m48rzTfyoSlj6HmnU-6" target="th_m48rzTfyoSlj6HmnU-6">
@@ -212,6 +212,9 @@
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-54" value="&lt;font color=&quot;#000000&quot;&gt;编码器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="150" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="th_m48rzTfyoSlj6HmnU-55" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#314354;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;fillColor=#4D4D4D;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
