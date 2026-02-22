@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lbz4l819wb7b4t988nfn">
-    <mxGraphModel dx="319" dy="186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,9 +84,7 @@
         <mxCell id="T579rX6WcrlPxQydtXD6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.016;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T579rX6WcrlPxQydtXD6-3" target="T579rX6WcrlPxQydtXD6-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="500" />
-              <mxPoint x="260" y="500" />
-              <mxPoint x="260" y="499" />
+              <mxPoint x="200" y="499" />
             </Array>
           </mxGeometry>
         </mxCell>
