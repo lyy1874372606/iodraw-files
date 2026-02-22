@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="e54F1CEKFKMmflqJhWVb">
-    <mxGraphModel dx="869" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2206" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,15 +46,6 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-14" value="划分数据集&#xa;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;spacingBottom=-13;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="571.5" y="680" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-30" value="数据预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="600" width="142" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-31" value="数据分解" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="785" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-32" value="建模与评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="930" width="142" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-9" target="tIL0x2nf-udAQ6Uirgnj-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -80,24 +71,6 @@
             <Array as="points" />
             <mxPoint x="1140" y="270.7282559798465" as="sourcePoint" />
             <mxPoint x="840" y="205.14852255054439" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-57" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="832" y="701.8487957181087" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-58" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="925" y="892.553311793215" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-59" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1226.5568119139548" y="1309" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" id="tIL0x2nf-udAQ6Uirgnj-60">
