@@ -7,16 +7,16 @@
         <mxCell id="yweS75yNaJvlfst-U2Sp-1" value="输入序列" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="348" y="220" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-2" value="非季节与季节差分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-2" value="非季节与季节差分" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="315.5" y="300" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-3" value="确定季节与非季节阶数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-3" value="确定季节与非季节阶数" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="299" y="390" width="222" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-4" value="拟合SARIMA模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-4" value="拟合SARIMA模型" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="321.5" y="490" width="177" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yweS75yNaJvlfst-U2Sp-5" value="残差诊断" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yweS75yNaJvlfst-U2Sp-5" value="残差诊断" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="347.5" y="580" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yweS75yNaJvlfst-U2Sp-6" value="是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
