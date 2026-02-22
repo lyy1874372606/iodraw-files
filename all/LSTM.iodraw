@@ -10,7 +10,7 @@
         <mxCell id="gdbvxgitAdAcSk3XHLnh-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub&gt;t-1&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="240" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdbvxgitAdAcSk3XHLnh-6" value="&lt;sub&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;h&lt;/span&gt;t-1&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gdbvxgitAdAcSk3XHLnh-6" value="&lt;sub&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;h&lt;/span&gt;t-1&lt;/font&gt;&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="415" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdbvxgitAdAcSk3XHLnh-7" value="&lt;sub&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;x&lt;/span&gt;t-1&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -19,10 +19,10 @@
         <mxCell id="gdbvxgitAdAcSk3XHLnh-8" value="h&lt;sub&gt;t&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="390" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdbvxgitAdAcSk3XHLnh-9" value="C&lt;sub&gt;t&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gdbvxgitAdAcSk3XHLnh-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;sub style=&quot;&quot;&gt;t&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="260" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gdbvxgitAdAcSk3XHLnh-10" value="h&lt;sub&gt;t&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gdbvxgitAdAcSk3XHLnh-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;h&lt;sub&gt;t&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="120" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdbvxgitAdAcSk3XHLnh-12" value="&lt;span class=&quot;mTEjhd&quot; data-processed=&quot;true&quot; style=&quot;display: inline;&quot;&gt;&lt;span class=&quot;dteT0b&quot; data-processed=&quot;true&quot; style=&quot;font-size: 1.15em;&quot;&gt;&lt;div data-xpm-copy-root=&quot;&quot; data-processed=&quot;true&quot; style=&quot;position: relative; direction: ltr; display: inline-block;&quot;&gt;&lt;span style=&quot;color: rgb(32, 33, 34); font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;σ&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
