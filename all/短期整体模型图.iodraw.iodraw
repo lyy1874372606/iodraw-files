@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-162" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="570" y="1003" width="156" height="405" as="geometry" />
+          <mxGeometry x="671" y="991" width="156" height="405" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-16" value="ARIMA" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="gEktWJj9ow306holStKL-162">
           <mxGeometry x="17" width="106" height="49" as="geometry" />
@@ -180,10 +180,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-20" value="VMD分解&#xa;(K=5)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="996" y="1003" width="125" height="67" as="geometry" />
+          <mxGeometry x="1004" y="987" width="125" height="67" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-21" value="u1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="888" y="1182" width="77" height="49" as="geometry" />
+          <mxGeometry x="896" y="1123" width="77" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gEktWJj9ow306holStKL-22" value="u2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1016" y="1182" width="77" height="49" as="geometry" />
