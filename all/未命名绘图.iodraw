@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lbz4l819wb7b4t988nfn">
-    <mxGraphModel dx="276" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,6 +37,9 @@
         <mxCell id="yS2qXyoB70y8bkvbVp4u-8" value="u5" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="377.74" y="469.5" width="49.75" height="30.5" as="geometry" />
         </mxCell>
+        <mxCell id="a5Ba5QvrXNB7DOZfkwk2-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yS2qXyoB70y8bkvbVp4u-9" target="yS2qXyoB70y8bkvbVp4u-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-9" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="103" y="536" width="122" height="49" as="geometry" />
         </mxCell>
@@ -47,7 +50,7 @@
           <mxGeometry x="435.5" y="536" width="122" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-12" value="P1" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="130" y="650" width="77" height="49" as="geometry" />
+          <mxGeometry x="125.5" y="650" width="77" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-13" value="P2" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="291.5" y="650" width="77" height="49" as="geometry" />
@@ -63,15 +66,6 @@
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-17" value="预测评价" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="262" y="979" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-30" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;edgeStyle=elbowEdgeStyle;" parent="1" source="yS2qXyoB70y8bkvbVp4u-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="169" y="640" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="170" y="650" />
-              <mxPoint x="170" y="630" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-31" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=elbowEdgeStyle;" parent="1" source="yS2qXyoB70y8bkvbVp4u-10" target="yS2qXyoB70y8bkvbVp4u-13" edge="1">
           <mxGeometry relative="1" as="geometry">
