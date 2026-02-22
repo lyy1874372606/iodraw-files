@@ -194,7 +194,10 @@
           <mxGeometry x="40" y="40" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-98" value="&lt;font color=&quot;#000000&quot;&gt;输入：&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;sub&gt;en&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="320" y="500" width="90" height="30" as="geometry" />
+          <mxGeometry x="190" y="850" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="th_m48rzTfyoSlj6HmnU-99" value="&lt;font color=&quot;#000000&quot;&gt;输入：&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;sub&gt;en&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="200" y="860" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
