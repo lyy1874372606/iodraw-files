@@ -13,10 +13,10 @@
         <mxCell id="4EjQPAiw9twazDJOtZjH-3" value="SARIMAX-rain_season (降水+季节)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="308" y="-754" width="210" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="4EjQPAiw9twazDJOtZjH-4" value="VMD-SARIMAX-rain_only (VMD+降水)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="4EjQPAiw9twazDJOtZjH-4" value="VMD-SARIMAX-rain_only (VMD+降水)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="153" y="-638" width="231" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="4EjQPAiw9twazDJOtZjH-5" value="VMD-SARIMAX-rain_season (VMD+降水+季节)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="4EjQPAiw9twazDJOtZjH-5" value="VMD-SARIMAX-rain_season (VMD+降水+季节)" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="434" y="-638" width="248" height="67" as="geometry" />
         </mxCell>
         <mxCell id="4EjQPAiw9twazDJOtZjH-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4EjQPAiw9twazDJOtZjH-1" target="4EjQPAiw9twazDJOtZjH-2">
