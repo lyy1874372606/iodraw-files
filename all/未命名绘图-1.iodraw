@@ -4,45 +4,42 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4EjQPAiw9twazDJOtZjH-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="153" y="-970" width="529" height="399" as="geometry" />
+        <mxCell id="4EjQPAiw9twazDJOtZjH-1" value="ARIMA (无外生变量)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="313" y="-970" width="201" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="4EjQPAiw9twazDJOtZjH-1" value="ARIMA (无外生变量)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="4EjQPAiw9twazDJOtZjH-10">
-          <mxGeometry x="160" width="201" height="49" as="geometry" />
+        <mxCell id="4EjQPAiw9twazDJOtZjH-2" value="SARIMAX-no_exog (无外生变量)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="321" y="-871" width="186" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="4EjQPAiw9twazDJOtZjH-2" value="SARIMAX-no_exog (仍无外生变量)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="4EjQPAiw9twazDJOtZjH-10">
-          <mxGeometry x="168" y="99" width="186" height="67" as="geometry" />
+        <mxCell id="4EjQPAiw9twazDJOtZjH-3" value="SARIMAX-rain_season (降水+季节)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="308" y="-754" width="210" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="4EjQPAiw9twazDJOtZjH-3" value="SARIMAX-rain_season (降水+季节)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="4EjQPAiw9twazDJOtZjH-10">
-          <mxGeometry x="155" y="216" width="210" height="67" as="geometry" />
+        <mxCell id="4EjQPAiw9twazDJOtZjH-4" value="VMD-SARIMAX-rain_only (VMD+降水)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="153" y="-638" width="231" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="4EjQPAiw9twazDJOtZjH-4" value="VMD-SARIMAX-rain_only (VMD+降水)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="4EjQPAiw9twazDJOtZjH-10">
-          <mxGeometry y="332" width="231" height="67" as="geometry" />
+        <mxCell id="4EjQPAiw9twazDJOtZjH-5" value="VMD-SARIMAX-rain_season (VMD+降水+季节)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="434" y="-638" width="248" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="4EjQPAiw9twazDJOtZjH-5" value="VMD-SARIMAX-rain_season (VMD+降水+季节)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="4EjQPAiw9twazDJOtZjH-10">
-          <mxGeometry x="281" y="332" width="248" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="4EjQPAiw9twazDJOtZjH-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="4EjQPAiw9twazDJOtZjH-10" source="4EjQPAiw9twazDJOtZjH-1" target="4EjQPAiw9twazDJOtZjH-2">
+        <mxCell id="4EjQPAiw9twazDJOtZjH-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4EjQPAiw9twazDJOtZjH-1" target="4EjQPAiw9twazDJOtZjH-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EjQPAiw9twazDJOtZjH-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="4EjQPAiw9twazDJOtZjH-10" source="4EjQPAiw9twazDJOtZjH-2" target="4EjQPAiw9twazDJOtZjH-3">
+        <mxCell id="4EjQPAiw9twazDJOtZjH-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="4EjQPAiw9twazDJOtZjH-2" target="4EjQPAiw9twazDJOtZjH-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EjQPAiw9twazDJOtZjH-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="4EjQPAiw9twazDJOtZjH-10" source="4EjQPAiw9twazDJOtZjH-3" target="4EjQPAiw9twazDJOtZjH-4">
+        <mxCell id="4EjQPAiw9twazDJOtZjH-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4EjQPAiw9twazDJOtZjH-3" target="4EjQPAiw9twazDJOtZjH-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="116" y="307" />
+              <mxPoint x="269" y="-663" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EjQPAiw9twazDJOtZjH-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="4EjQPAiw9twazDJOtZjH-10" source="4EjQPAiw9twazDJOtZjH-3" target="4EjQPAiw9twazDJOtZjH-5">
+        <mxCell id="4EjQPAiw9twazDJOtZjH-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4EjQPAiw9twazDJOtZjH-3" target="4EjQPAiw9twazDJOtZjH-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="405" y="307" />
+              <mxPoint x="558" y="-663" />
             </Array>
           </mxGeometry>
         </mxCell>
