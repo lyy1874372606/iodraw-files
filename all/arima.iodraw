@@ -1,52 +1,52 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lbz4l819wb7b4t988nfn">
-    <mxGraphModel dx="989" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="53AVRFLM_znfAYnoeNg--1" value="输入序列" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="53AVRFLM_znfAYnoeNg--1" value="输入序列" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="372" y="280" width="124" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--2" value="差分与平稳性检查" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="53AVRFLM_znfAYnoeNg--2" value="差分与平稳性检查" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="339" y="339" width="190" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--3" value="确定模型阶数" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="53AVRFLM_znfAYnoeNg--3" value="确定模型阶数" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="356" y="410" width="158" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--4" value="拟合ARIMA模型" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="53AVRFLM_znfAYnoeNg--4" value="拟合ARIMA模型" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="350" y="490" width="169" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--5" value="残差诊断" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="53AVRFLM_znfAYnoeNg--5" value="残差诊断" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="372" y="585" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--6" value="是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="53AVRFLM_znfAYnoeNg--6" value="是否通过" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="376.5" y="660" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--7" value="预测输出" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="53AVRFLM_znfAYnoeNg--7" value="预测输出" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="371" y="820" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="53AVRFLM_znfAYnoeNg--1" target="53AVRFLM_znfAYnoeNg--2">
+        <mxCell id="53AVRFLM_znfAYnoeNg--8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="53AVRFLM_znfAYnoeNg--1" target="53AVRFLM_znfAYnoeNg--2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="53AVRFLM_znfAYnoeNg--2" target="53AVRFLM_znfAYnoeNg--3">
+        <mxCell id="53AVRFLM_znfAYnoeNg--9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="53AVRFLM_znfAYnoeNg--2" target="53AVRFLM_znfAYnoeNg--3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="53AVRFLM_znfAYnoeNg--3" target="53AVRFLM_znfAYnoeNg--4">
+        <mxCell id="53AVRFLM_znfAYnoeNg--10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="1" source="53AVRFLM_znfAYnoeNg--3" target="53AVRFLM_znfAYnoeNg--4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="53AVRFLM_znfAYnoeNg--4" target="53AVRFLM_znfAYnoeNg--5">
+        <mxCell id="53AVRFLM_znfAYnoeNg--11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="53AVRFLM_znfAYnoeNg--4" target="53AVRFLM_znfAYnoeNg--5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="53AVRFLM_znfAYnoeNg--5" target="53AVRFLM_znfAYnoeNg--6">
+        <mxCell id="53AVRFLM_znfAYnoeNg--12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="53AVRFLM_znfAYnoeNg--5" target="53AVRFLM_znfAYnoeNg--6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--13" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="53AVRFLM_znfAYnoeNg--6" target="53AVRFLM_znfAYnoeNg--3">
+        <mxCell id="53AVRFLM_znfAYnoeNg--13" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontStyle=1" parent="1" source="53AVRFLM_znfAYnoeNg--6" target="53AVRFLM_znfAYnoeNg--3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="610" y="717" />
@@ -56,7 +56,7 @@
             <mxPoint x="513.4300000000001" y="462.4999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="53AVRFLM_znfAYnoeNg--14" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="53AVRFLM_znfAYnoeNg--6" target="53AVRFLM_znfAYnoeNg--7">
+        <mxCell id="53AVRFLM_znfAYnoeNg--14" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="53AVRFLM_znfAYnoeNg--6" target="53AVRFLM_znfAYnoeNg--7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
