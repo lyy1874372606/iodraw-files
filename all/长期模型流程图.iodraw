@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-5" value="VMD分解" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="262" y="391" width="154" height="39" as="geometry" />
+          <mxGeometry x="243" y="389" width="164" height="47" as="geometry" />
         </mxCell>
         <mxCell id="K8NBXdoMsMpptYLcLANr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a5Ba5QvrXNB7DOZfkwk2-4" value="u1高频" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="210" y="469.5" width="59.75" height="30.5" as="geometry" />
+          <mxGeometry x="188" y="469.5" width="81.75" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="a5Ba5QvrXNB7DOZfkwk2-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
