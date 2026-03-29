@@ -62,7 +62,7 @@
           <mxGeometry x="458" y="650" width="77" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-15" value="分量预测重构" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="267.5" y="781" width="125" height="49" as="geometry" />
+          <mxGeometry x="267.5" y="781" width="140.5" height="64" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-16" value="滚动预测" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="262" y="880" width="125" height="49" as="geometry" />
