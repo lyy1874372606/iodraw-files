@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="e54F1CEKFKMmflqJhWVb">
-    <mxGraphModel dx="1434" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="574" dy="334" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-10" value="原始时间序列" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="601" y="343" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="1BzDyWqgw-qx3y2eKwnZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-12" target="tIL0x2nf-udAQ6Uirgnj-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-12" value="缺失处理/标准化" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="574.5" y="457" width="210" height="50" as="geometry" />
@@ -23,6 +26,9 @@
               <mxPoint x="681" y="661" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1BzDyWqgw-qx3y2eKwnZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-13" target="tIL0x2nf-udAQ6Uirgnj-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-13" value="滑窗构造" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571.5" y="551" width="216" height="50" as="geometry" />
