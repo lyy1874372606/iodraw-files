@@ -94,10 +94,10 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-18" value="输入投影" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
           <mxGeometry x="56" y="99" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-19" value="Informer 编码-解码" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-19" value="Informer 编码-解码" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
           <mxGeometry x="20" y="198" width="197" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-20" value="特征输出A" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-20" value="特征输出A" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
           <mxGeometry x="51" y="322" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" parent="tIL0x2nf-udAQ6Uirgnj-75" source="tIL0x2nf-udAQ6Uirgnj-17" target="tIL0x2nf-udAQ6Uirgnj-18" edge="1">
