@@ -50,7 +50,7 @@
           <mxGeometry x="435.5" y="536" width="122" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-12" value="P1" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="125.5" y="650" width="77" height="49" as="geometry" />
+          <mxGeometry x="124" y="648" width="77" height="49" as="geometry" />
         </mxCell>
         <mxCell id="a5Ba5QvrXNB7DOZfkwk2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yS2qXyoB70y8bkvbVp4u-13" target="yS2qXyoB70y8bkvbVp4u-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-8" value="u5低频" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="416" y="473" width="100" height="46" as="geometry" />
+          <mxGeometry x="422" y="472" width="100" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
