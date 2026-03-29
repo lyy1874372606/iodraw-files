@@ -146,14 +146,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tIL0x2nf-udAQ6Uirgnj-16" target="tIL0x2nf-udAQ6Uirgnj-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="679" y="1070" />
-              <mxPoint x="518" y="1070" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tIL0x2nf-udAQ6Uirgnj-20" target="tIL0x2nf-udAQ6Uirgnj-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="1540" as="targetPoint" />
@@ -167,8 +159,10 @@
             <mxGeometry x="359" y="1002" width="630" height="720" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tIL0x2nf-udAQ6Uirgnj-21" target="tIL0x2nf-udAQ6Uirgnj-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tIL0x2nf-udAQ6Uirgnj-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="825" y="1171" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-21" value="BiLSTM 序列建模" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="735" y="1017" width="180" height="49" as="geometry" />
