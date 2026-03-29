@@ -88,7 +88,7 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-75" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="387" y="1014" width="237" height="371" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-17" value="分量注意力融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-17" value="分量注意力融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
           <mxGeometry width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-18" value="输入投影" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
