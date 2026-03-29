@@ -61,10 +61,10 @@
         <mxCell id="a5Ba5QvrXNB7DOZfkwk2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yS2qXyoB70y8bkvbVp4u-13" target="yS2qXyoB70y8bkvbVp4u-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-13" value="P2" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-13" value="P2" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="291.5" y="650" width="77" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-14" value="P5" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-14" value="P5" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="458" y="650" width="77" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-15" value="分量预测重构" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
