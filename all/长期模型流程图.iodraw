@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-8" value="u5低频" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="411" y="468" width="87" height="34" as="geometry" />
+          <mxGeometry x="416" y="473" width="100" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
