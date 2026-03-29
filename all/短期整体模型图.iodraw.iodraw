@@ -91,7 +91,7 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-17" value="分量注意力融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
           <mxGeometry width="237" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-18" value="输入投影" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-18" value="输入投影" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
           <mxGeometry x="56" y="99" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-19" value="Informer 编码-解码" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
@@ -164,7 +164,7 @@
             <mxPoint x="825" y="1136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-23" value="特征输出B" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-23" value="特征输出B" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="758" y="1171" width="134" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-88" value="&lt;h1&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 30px;&quot;&gt;获取数据&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
