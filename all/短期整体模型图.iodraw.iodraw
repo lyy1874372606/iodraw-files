@@ -62,6 +62,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="480" />
+              <mxPoint x="677" y="451" />
             </Array>
             <mxPoint x="680" y="490" as="targetPoint" />
           </mxGeometry>
