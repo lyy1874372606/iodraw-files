@@ -77,7 +77,7 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-15" value="VMD 多尺度分解&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-72" vertex="1">
           <mxGeometry width="177" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-16" value="u1..u8 模态分量" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-72" vertex="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-16" value="u1..u8 模态分量" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1;fontFamily=Times New Roman;" parent="tIL0x2nf-udAQ6Uirgnj-72" vertex="1">
           <mxGeometry y="116" width="176" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="tIL0x2nf-udAQ6Uirgnj-72" source="tIL0x2nf-udAQ6Uirgnj-15" target="tIL0x2nf-udAQ6Uirgnj-16" edge="1">
