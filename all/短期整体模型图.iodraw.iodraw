@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-75" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="390" y="1140" width="237" height="371" as="geometry" />
+          <mxGeometry x="387" y="1014" width="237" height="371" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-17" value="分量注意力融合" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-75" vertex="1">
           <mxGeometry width="237" height="49" as="geometry" />
@@ -154,14 +154,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.565;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tIL0x2nf-udAQ6Uirgnj-16" target="tIL0x2nf-udAQ6Uirgnj-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="679" y="1070" />
-              <mxPoint x="838" y="1070" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tIL0x2nf-udAQ6Uirgnj-20" target="tIL0x2nf-udAQ6Uirgnj-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="1540" as="targetPoint" />
@@ -179,7 +171,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-21" value="BiLSTM 序列建模" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="736" y="1140" width="180" height="49" as="geometry" />
+          <mxGeometry x="735" y="1017" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tIL0x2nf-udAQ6Uirgnj-23" edge="1">
           <mxGeometry relative="1" as="geometry">
