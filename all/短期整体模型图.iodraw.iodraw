@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-78" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="589" y="1429" width="236" height="432" as="geometry" />
+          <mxGeometry x="715" y="1338" width="236" height="432" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-24" value="特征融合&#xa;Concat" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-78" vertex="1">
           <mxGeometry x="53" width="126" height="67" as="geometry" />
