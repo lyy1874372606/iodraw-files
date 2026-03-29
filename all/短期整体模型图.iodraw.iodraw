@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="e54F1CEKFKMmflqJhWVb">
-    <mxGraphModel dx="1687" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="819" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,11 +72,6 @@
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-15" value="VMD 多尺度分解&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1;fontFamily=Times New Roman;" parent="tIL0x2nf-udAQ6Uirgnj-72" vertex="1">
           <mxGeometry width="177" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="1BzDyWqgw-qx3y2eKwnZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tIL0x2nf-udAQ6Uirgnj-72" source="tIL0x2nf-udAQ6Uirgnj-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-85.80882352941171" y="263.11764705882365" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-16" value="u1..u8 模态分量" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1;fontFamily=Times New Roman;" parent="tIL0x2nf-udAQ6Uirgnj-72" vertex="1">
           <mxGeometry y="116" width="176" height="49" as="geometry" />
@@ -209,12 +204,6 @@
         </mxCell>
         <mxCell id="1BzDyWqgw-qx3y2eKwnZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tIL0x2nf-udAQ6Uirgnj-13" target="tIL0x2nf-udAQ6Uirgnj-14">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1BzDyWqgw-qx3y2eKwnZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="667" y="1011" as="targetPoint" />
-            <mxPoint x="726.8235294117649" y="951.0000000000002" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
