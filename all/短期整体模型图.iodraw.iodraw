@@ -117,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-78" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="710" y="1282" width="236" height="432" as="geometry" />
+          <mxGeometry x="716" y="1281" width="236" height="432" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-24" value="特征融合&#xa;Concat" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-78" vertex="1">
           <mxGeometry x="53" width="126" height="67" as="geometry" />
@@ -140,11 +140,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="116.5" y="234" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="tIL0x2nf-udAQ6Uirgnj-78" source="tIL0x2nf-udAQ6Uirgnj-27" target="tIL0x2nf-udAQ6Uirgnj-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" id="tIL0x2nf-udAQ6Uirgnj-84">
