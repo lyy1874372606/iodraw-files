@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-9" value="获取数据&lt;br&gt;日尺度CWQI" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;html=1;" parent="1" vertex="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;获取数据&lt;br&gt;日尺度CWQI&lt;/font&gt;" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;html=1;" parent="1" vertex="1">
           <mxGeometry x="554" y="209" width="251" height="84" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-10" value="原始时间序列" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
@@ -74,7 +74,7 @@
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-72" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="601" y="744" width="177" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="tIL0x2nf-udAQ6Uirgnj-15" value="VMD 多尺度分解&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" parent="tIL0x2nf-udAQ6Uirgnj-72" vertex="1">
+        <mxCell id="tIL0x2nf-udAQ6Uirgnj-15" value="VMD 多尺度分解&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1;fontFamily=Times New Roman;" parent="tIL0x2nf-udAQ6Uirgnj-72" vertex="1">
           <mxGeometry width="177" height="67" as="geometry" />
         </mxCell>
         <mxCell id="tIL0x2nf-udAQ6Uirgnj-16" value="u1..u8 模态分量" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1;fontFamily=Times New Roman;" parent="tIL0x2nf-udAQ6Uirgnj-72" vertex="1">
