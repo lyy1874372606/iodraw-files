@@ -49,10 +49,10 @@
         <mxCell id="yS2qXyoB70y8bkvbVp4u-9" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="103" y="536" width="122" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-10" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-10" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="269" y="536" width="122" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yS2qXyoB70y8bkvbVp4u-11" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="yS2qXyoB70y8bkvbVp4u-11" value="SARIMAX" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="435.5" y="536" width="122" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-12" value="P1" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
