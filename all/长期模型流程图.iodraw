@@ -17,7 +17,7 @@
           <mxGeometry x="249.75" y="150" width="150.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-4" value="外生变量构造" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="249" y="323" width="159" height="46" as="geometry" />
+          <mxGeometry x="245" y="323" width="159" height="46" as="geometry" />
         </mxCell>
         <mxCell id="yS2qXyoB70y8bkvbVp4u-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yS2qXyoB70y8bkvbVp4u-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -133,6 +133,9 @@
             <mxGeometry x="155" y="133" width="340" height="163" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="zA92u-rB1Iy9sjr3kuZA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a5Ba5QvrXNB7DOZfkwk2-1" target="yS2qXyoB70y8bkvbVp4u-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a5Ba5QvrXNB7DOZfkwk2-1" value="数据集划分" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="249.25" y="230" width="150.5" height="53" as="geometry" />
         </mxCell>
