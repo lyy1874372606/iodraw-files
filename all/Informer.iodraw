@@ -76,10 +76,10 @@
         <mxCell id="th_m48rzTfyoSlj6HmnU-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="th_m48rzTfyoSlj6HmnU-30" source="th_m48rzTfyoSlj6HmnU-32" target="th_m48rzTfyoSlj6HmnU-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="th_m48rzTfyoSlj6HmnU-38" value="多头注意力" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+        <mxCell id="th_m48rzTfyoSlj6HmnU-38" value="&lt;b&gt;多头注意力&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="590" y="510" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="th_m48rzTfyoSlj6HmnU-39" value="掩码多头概率稀疏自注意力机制" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="th_m48rzTfyoSlj6HmnU-39" value="&lt;b&gt;掩码多头概率稀疏自注意力机制&lt;/b&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="570" y="585" width="180" height="95" as="geometry" />
         </mxCell>
         <object placeholders="1" id="th_m48rzTfyoSlj6HmnU-40">
@@ -100,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="th_m48rzTfyoSlj6HmnU-42" value="&lt;font color=&quot;#000000&quot;&gt;全连接层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="th_m48rzTfyoSlj6HmnU-42" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;全连接层&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;fillColor=#FFFFFF;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="410" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="th_m48rzTfyoSlj6HmnU-43" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=17;fontColor=#ffffff;entryX=-0.001;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="th_m48rzTfyoSlj6HmnU-18" edge="1">
